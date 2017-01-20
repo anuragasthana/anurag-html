@@ -1,0 +1,23 @@
+ul.nav {
+	padding: 0;
+	margin: 0;
+	float: left;
+	background-color: #0000FF;
+	color: #FFFFFF;
+	}
+ul.nav li {display: inline;}
+ul.nav li a {
+	padding: .2em 1em;
+	background-color: #0000FF;
+	color: #FFFFFF;
+	text-decoration: none;
+	float: left;
+	border-bottom: solid 1px #FFFFFF;
+	border-top: solid 1px #FFFFFF;
+	border-right: solid 1px #FFFFFF;
+	}
+a:link, a:visited {color: #FFFFFF;}
+ul.nav li a:hover {
+	background-color: #999999;
+	color: #000000;
+	}

@@ -1,0 +1,576 @@
+body {
+	margin: 5px;
+}
+h1.main {
+	text-align: left; padding-left: 5px;
+}
+h2.main {
+	text-align: left; padding-left: 5px;
+}
+h3.main {
+	text-align: left; padding-left: 5px;
+}
+h4.main {
+	text-align: left; padding-left: 5px;
+}
+h5.main {
+	text-align: left; padding-left: 5px;
+}
+h6.main {
+	text-align: left; padding-left: 5px;
+}
+h1 {
+	text-align: left; padding-left: 5px;
+}
+h2 {
+	text-align: left; padding-left: 5px;
+}
+h3 {
+	text-align: left; padding-left: 5px;
+}
+h4 {
+	text-align: left; padding-left: 5px;
+}
+h1 {
+	border-width: 1px; border-style: solid;
+}
+h2 {
+	border-width: 1px; border-style: solid;
+}
+h3 {
+	border-width: 1px; border-style: solid;
+}
+h4 {
+	border-bottom-width: 1px; border-bottom-style: solid;
+}
+input {
+	
+}
+.generaltable {
+	border-width: 0px;
+}
+.generalbox {
+	border-width: 1px; border-style: solid;
+}
+.sitetopiccontent {
+	border-width: 1px; border-style: solid;
+}
+#header-home {
+	border-width: 1px; border-style: solid; height: 55px;
+}
+#header {
+	border-width: 1px; border-style: solid; height: 55px;
+}
+.headermain {
+	border-width: 0px;
+}
+.headermenu {
+	text-align: right; float: right;
+}
+.navbar {
+	border-width: 1px; border-style: solid; padding: 0px; width: 100%; height: 25px; margin-right: 5px;
+}
+.breadcrumb {
+	padding-top: 3px; padding-left: 3px;
+}
+.navbar .navbutton {
+	padding-top: 2px; padding-right: 3px;
+}
+table.loginbox {
+	margin-top: 40px;
+}
+.loginbox .header {
+	border-width: 1px 1px 0px; border-style: solid;
+}
+.loginbox .content {
+	border-top-width: 1px;
+}
+#footer {
+	text-align: left; margin-top: 5px; margin-bottom: 0px;
+}
+#footer p.helplink {
+	margin-bottom: -25px;
+}
+.sideblock .header h2 {
+	border-width: 0px;
+}
+.sideblock .footer {
+	border-top-width: 1px; border-top-style: dashed;
+}
+#calendar .today {
+	border: 1px solid currentColor !important;
+}
+.minicalendar .today {
+	border: 1px solid currentColor !important;
+}
+table.minicalendar {
+	border-width: 1px; border-style: solid; margin: 10px auto; padding: 2px; width: 100%; border-collapse: separate; border-spacing: 1px !important;
+}
+table.minicalendar tr.weekdays th {
+	
+}
+table.minicalendar tr td.day {
+	border-width: 1px; border-style: solid;
+}
+table.minicalendar tr.weekdays th abbr {
+	
+}
+table.calendarmonth {
+	border-collapse: separate; border-spacing: 1px !important;
+}
+table.calendarmonth tr td {
+	border-width: 1px; border-style: solid;
+}
+.headingblock {
+	border-width: 1px; border-style: solid; padding: 5px;
+}
+.categorybox .category {
+	border-width: 1px; padding-top: 7px; border-bottom-color: currentColor; border-bottom-style: solid;
+}
+.categorybox .category {
+	border-width: 1px; padding-top: 7px; border-bottom-color: currentColor; border-bottom-style: solid;
+}
+#course-view .section .left {
+	border-right-width: 1px; border-right-style: dashed;
+}
+#course-view .hidden.section .content {
+	border-width: 1px; border-style: dashed;
+}
+#course-view .hidden.section .side {
+	border-width: 1px; border-style: dashed;
+}
+#content {
+	clear: both;
+}
+body {
+	background-color: rgb(247, 246, 241);
+}
+a:link {
+	color: rgb(0, 51, 204);
+}
+a:visited {
+	color: rgb(0, 51, 204);
+}
+a:hover {
+	color: rgb(204, 153, 0);
+}
+a.dimmed:link {
+	color: rgb(170, 170, 170);
+}
+a.dimmed:visited {
+	color: rgb(170, 170, 170);
+}
+h1 {
+	border-color: rgb(0, 0, 102); color: rgb(0, 0, 102); background-color: rgb(0, 0, 102);
+}
+h2 {
+	border-color: rgb(0, 0, 102); background-color: rgb(193, 193, 233);
+}
+h3 {
+	border-color: rgb(146, 146, 235);
+}
+h4 {
+	border-color: rgb(146, 146, 235);
+}
+th {
+	background-color: rgb(193, 193, 233);
+}
+th.header {
+	background-color: rgb(193, 193, 233);
+}
+td.header {
+	background-color: rgb(193, 193, 233);
+}
+div.header {
+	background-color: rgb(193, 193, 233);
+}
+#layout-table #left-column {
+	
+}
+.generalbox {
+	border-color: rgb(0, 0, 102); background-color: rgb(255, 255, 255);
+}
+.generaltable {
+	border-color: rgb(0, 0, 102);
+}
+.generaltable td {
+	border-color: rgb(0, 0, 102);
+}
+.generaltable .r0 td.c0.cell {
+	background-color: rgb(146, 146, 235);
+}
+.generaltable .r1 td.c0.cell {
+	border-color: rgb(0, 0, 102); background-color: rgb(193, 193, 233);
+}
+.navbar {
+	background: url("pix/grad/bg_bread.jpg") repeat-x; border-color: rgb(0, 0, 102);
+}
+.sitetopiccontent {
+	border-color: rgb(0, 0, 102); background-color: rgb(255, 255, 255);
+}
+.highlight {
+	background-color: rgb(255, 255, 51);
+}
+.highlight2 {
+	color: rgb(0, 0, 102);
+}
+#header-home {
+	border-color: rgb(0, 0, 102); background-color: rgb(255, 255, 255);
+}
+#header {
+	border-color: rgb(0, 0, 102); background-color: rgb(255, 255, 255);
+}
+.loginbox {
+	border-color: rgb(0, 0, 102);
+}
+.twocolumns.loginbox .loginpanel {
+	border-color: rgb(0, 0, 102);
+}
+.loginbox .subcontent {
+	border-color: rgb(0, 0, 102);
+}
+.loginbox .content {
+	border-color: rgb(0, 0, 102);
+}
+.sideblock .header {
+	border-color: rgb(0, 0, 102);
+}
+.sideblock {
+	border-color: rgb(0, 0, 102);
+}
+.sideblock .content {
+	border-color: rgb(0, 0, 102); background-color: rgb(254, 249, 246);
+}
+.sideblock hr {
+	color: rgb(0, 0, 102);
+}
+.sideblock .footer {
+	border-top-color: rgb(0, 0, 102);
+}
+.sideblock .header .hide-show img.hide-show-image {
+	background: url("../../pix/t/switch_minus.gif") no-repeat bottom;
+}
+.hidden.sideblock .header .hide-show img.hide-show-image {
+	background: url("../../pix/t/switch_plus.gif") no-repeat bottom;
+}
+.sideblock .content .post .head .date {
+	color: rgb(0, 0, 0);
+}
+.sideblock .content .post .head .name {
+	color: rgb(0, 0, 0);
+}
+#calendar .maincalendar {
+	border-color: rgb(0, 0, 102);
+}
+#calendar .sidecalendar {
+	border-color: rgb(0, 0, 102);
+}
+#calendar .maincalendar .event {
+	border-color: rgb(0, 0, 102);
+}
+#calendar .maincalendar table.calendarmonth th {
+	border-color: rgb(0, 0, 102);
+}
+table.calendarmonth tr td {
+	border-color: rgb(0, 0, 102);
+}
+table.minicalendar {
+	border-color: rgb(0, 0, 102);
+}
+table.minicalendar tr.weekdays th {
+	border-color: rgb(0, 0, 102); background-color: rgb(254, 249, 246);
+}
+table.minicalendar tr td.day {
+	border-color: rgb(0, 0, 102);
+}
+table.minicalendar tr td.weekend {
+	border-color: rgb(0, 0, 102); color: red;
+}
+#calendar .today {
+	border-color: rgb(0, 0, 0) !important;
+}
+.minicalendar .today {
+	border-color: rgb(0, 0, 0) !important;
+}
+#calendar .event_global {
+	border-color: rgb(46, 186, 14) !important; background-color: rgb(46, 186, 14);
+}
+.minicalendar .event_global {
+	border-color: rgb(46, 186, 14) !important; background-color: rgb(46, 186, 14);
+}
+.block_calendar_month .event_global {
+	border-color: rgb(46, 186, 14) !important; background-color: rgb(46, 186, 14);
+}
+#calendar .event_course {
+	border-color: rgb(255, 153, 102) !important; background-color: rgb(255, 153, 102);
+}
+.minicalendar .event_course {
+	border-color: rgb(255, 153, 102) !important; background-color: rgb(255, 153, 102);
+}
+.block_calendar_month .event_course {
+	border-color: rgb(255, 153, 102) !important; background-color: rgb(255, 153, 102);
+}
+#calendar .event_group {
+	border-color: rgb(255, 204, 51) !important; background-color: rgb(255, 204, 51);
+}
+.minicalendar .event_group {
+	border-color: rgb(255, 204, 51) !important; background-color: rgb(255, 204, 51);
+}
+.block_calendar_month .event_group {
+	border-color: rgb(255, 204, 51) !important; background-color: rgb(255, 204, 51);
+}
+#calendar .event_user {
+	border-color: rgb(255, 204, 51) !important; background-color: rgb(255, 204, 51);
+}
+.minicalendar .event_user {
+	border-color: rgb(255, 204, 51) !important; background-color: rgb(255, 204, 51);
+}
+.block_calendar_month .event_user {
+	border-color: rgb(255, 204, 51) !important; background-color: rgb(255, 204, 51);
+}
+.cal_popup_fg {
+	background-color: rgb(254, 249, 246);
+}
+.cal_popup_bg {
+	border-color: rgb(0, 0, 102); background-color: rgb(254, 249, 246);
+}
+.headingblock {
+	border-color: rgb(0, 0, 102);
+}
+.categoryboxcontent {
+	background: rgb(255, 255, 255); border-color: rgb(0, 0, 102);
+}
+.courseboxcontent {
+	background: rgb(255, 255, 255); border-color: rgb(0, 0, 102);
+}
+.categorybox .category {
+	border-color: rgb(0, 0, 102);
+}
+.categorybox .category {
+	border-color: rgb(0, 0, 102);
+}
+#course-view .main.section .content {
+	border-color: rgb(0, 0, 102); background-color: rgb(255, 255, 255);
+}
+#course-view .main.section .side {
+	border-color: rgb(0, 0, 102); background-color: rgb(255, 255, 255);
+}
+#course-view .current .side.right {
+	background-color: rgb(0, 0, 102);
+}
+#course-view .current .side.left {
+	background-color: rgb(0, 0, 102);
+}
+#course-view .hidden.section .content {
+	border-color: rgb(0, 0, 102);
+}
+#course-view .hidden.section .side {
+	border-color: rgb(0, 0, 102);
+}
+.tabs .side {
+	border-color: rgb(0, 0, 102);
+}
+.tabrow td {
+	background: url("pix/tab/left.gif") no-repeat left top;
+}
+.tabrow td .tablink {
+	background: url("pix/tab/right.gif") no-repeat right top;
+}
+.tabrow td:hover {
+	background-image: url("pix/tab/left_hover.gif");
+}
+.tabrow td:hover .tablink {
+	background-image: url("pix/tab/right_hover.gif");
+}
+.tabrow .last span {
+	background: url("pix/tab/right_end.gif") no-repeat right top;
+}
+.tabrow .selected {
+	background: url("pix/tab/left_active.gif") no-repeat left top;
+}
+.tabrow .selected .tablink {
+	background: url("pix/tab/right_active.gif") no-repeat right top;
+}
+.tabrow td.selected:hover {
+	background-image: url("pix/tab/left_active_hover.gif");
+}
+.tabrow td.selected:hover .tablink {
+	background-image: url("pix/tab/right_active_hover.gif");
+}
+.forumheaderlist {
+	border-color: rgb(0, 0, 102);
+}
+.forumpost {
+	border-color: rgb(0, 0, 102);
+}
+.forumpost .content {
+	background: rgb(254, 249, 246);
+}
+.forumpost .left {
+	background: rgb(254, 249, 246);
+}
+.forumpost .topic {
+	border-bottom-color: rgb(0, 0, 102);
+}
+.forumpost .starter {
+	background: rgb(254, 249, 246);
+}
+.forumheaderlist .discussion .starter {
+	background: rgb(254, 249, 246);
+}
+.forumheaderlist td {
+	border-color: rgb(0, 0, 102);
+}
+.sideblock .post .head {
+	color: rgb(254, 249, 246);
+}
+.forumthread .unread {
+	background: rgb(254, 249, 246);
+}
+#mod-forum-discuss .forumpost {
+	
+}
+#mod-forum-discuss .unread.forumpost .content {
+	border-color: rgb(0, 0, 102);
+}
+#mod-forum-discuss .forumthread .unread {
+	
+}
+#mod-forum-index .unread {
+	
+}
+.que {
+	border-color: rgb(221, 221, 221);
+}
+.que .r0 {
+	background-color: rgb(245, 245, 245);
+}
+.que .r1 {
+	background-color: rgb(238, 238, 238);
+}
+.calculated .answer {
+	background-color: rgb(238, 238, 238);
+}
+.numerical .answer {
+	background-color: rgb(238, 238, 238);
+}
+.shortanswer .answer {
+	background-color: rgb(238, 238, 238);
+}
+.truefalse .answer {
+	background-color: rgb(238, 238, 238);
+}
+.que .feedback {
+	border-color: rgb(221, 221, 221);
+}
+.que .incorrect {
+	background-color: rgb(255, 170, 170);
+}
+.que .partiallycorrect {
+	background-color: rgb(255, 255, 153);
+}
+.que .correct {
+	background-color: rgb(170, 255, 170);
+}
+.clearer {
+	font-size: 1px;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif; font-size: 13px;
+}
+td {
+	font-family: Arial, Helvetica, sans-serif; font-size: 13px;
+}
+li {
+	font-family: Arial, Helvetica, sans-serif; font-size: 13px;
+}
+body {
+	margin: 5px;
+}
+th {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+h1 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+h2 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+h3 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+h4 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+h1 {
+	font-size: 1.2em; font-weight: bold;
+}
+h2 {
+	font-size: 1.15em;
+}
+h3 {
+	font-size: 1.1em;
+}
+h4 {
+	font-weight: bold;
+}
+th.header {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 0.9em; font-weight: bold;
+}
+td.header {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 0.9em; font-weight: bold;
+}
+div.header {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 0.9em; font-weight: bold;
+}
+.headingblock {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 0.9em; font-weight: bold;
+}
+.categorybox .category {
+	font-size: 1.2em; font-weight: bold;
+}
+.generaltable td.c0.cell {
+	font-weight: bold;
+}
+.breadcrumb {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 0.85em; font-weight: bold;
+}
+.logininfo {
+	font-size: 0.8em;
+}
+#header-home .headermenu font {
+	font-size: 0.8em;
+}
+.sideblock .footer {
+	text-align: left; font-size: 0.85em;
+}
+#calendar .maincalendar table.calendarmonth td {
+	font-size: 0.8em;
+}
+#calendar .maincalendar .calendar-controls .current {
+	font-weight: bold;
+}
+#calendar .sidecalendar .filters {
+	font-size: 0.75em;
+}
+table.minicalendar tr.weekdays th {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 0.7em; font-weight: normal;
+}
+table.minicalendar tr td {
+	font-size: 0.7em;
+}
+#course-view .section .left {
+	font-size: 0em; font-weight: bold;
+}
+img.resize {
+	width: 1em; height: 1em;
+}

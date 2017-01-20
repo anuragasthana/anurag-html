@@ -1,0 +1,174 @@
+table {
+	float: none !important;
+}
+td {
+	float: none !important;
+}
+body {
+	background: rgb(255, 255, 255); margin: 0px; padding: 0px;
+}
+#header {
+	display: none !important;
+}
+#footer {
+	display: none !important;
+}
+.navbar {
+	display: none !important;
+}
+.logininfo {
+	display: none !important;
+}
+.navbutton {
+	display: none !important;
+}
+#course-view #header {
+	display: block !important;
+}
+.navbar {
+	display: block !important;
+}
+#calendar-view .header {
+	display: none !important;
+}
+.button {
+	display: none !important;
+}
+.filters {
+	display: none !important;
+}
+.bottom {
+	display: none !important;
+}
+table.boxaligncenter {
+	width: 100% !important;
+}
+#mod-chat-report .box {
+	border: 0px currentColor;
+}
+#mod-forum-view .subscription {
+	display: none !important;
+}
+#newdiscussionform {
+	display: none !important;
+}
+#mod-forum-view .topic {
+	background: rgb(255, 255, 255);
+}
+#mod-forum-view a {
+	color: rgb(0, 0, 0);
+}
+#mod-forum-view table {
+	border: 0px currentColor;
+}
+#mod-forum-discuss .popupform {
+	display: none !important;
+}
+#mod-glossary-view td.icons {
+	display: none !important;
+}
+.singlebutton {
+	display: none !important;
+}
+.glossarysearchbox {
+	display: none !important;
+}
+.glossarycontrol {
+	display: none !important;
+}
+#mod-glossary-view .entrybox {
+	border: 0px currentColor;
+}
+td.entry {
+	border: 0px currentColor;
+}
+td.entrylowersection {
+	border: 0px currentColor;
+}
+#mod-lesson-edit .addlinks {
+	margin: 0px; display: none !important;
+}
+.iconsmall {
+	margin: 0px; display: none !important;
+}
+.iconhelp {
+	margin: 0px; display: none !important;
+}
+.tabtree {
+	margin: 0px; display: none !important;
+}
+.tabrow0 {
+	margin: 0px; display: none !important;
+}
+.tabrow1 {
+	margin: 0px; display: none !important;
+}
+#mod-lesson-edit table.generalbox {
+	border-color: rgb(255, 255, 255);
+}
+#mod-lesson-edit .generalbox > tbody > tr > th {
+	margin: 0px; display: none !important;
+}
+#mod-lesson-view > #page > #content > .box {
+	margin: 0px; display: none !important;
+}
+#mod-lesson-view > #page > #content > p {
+	margin: 0px; display: none !important;
+}
+#mod-lesson-view generalbox {
+	border-width: 0px; border-color: rgb(255, 255, 255);
+}
+.box {
+	border-width: 0px; border-color: rgb(255, 255, 255);
+}
+#layout-table {
+	border-width: 0px; border-color: rgb(255, 255, 255);
+}
+.notifysuccess {
+	border-width: 0px; border-color: rgb(255, 255, 255);
+}
+#mod-lesson-view .progress_bar {
+	margin: 0px; display: none !important;
+}
+input {
+	margin: 0px; display: none !important;
+}
+.lessonbutton {
+	margin: 0px; display: none !important;
+}
+.notifyproblem {
+	margin: 0px; display: none !important;
+}
+#mod-quiz-attempt td.cell c3 {
+	display: none !important;
+}
+.btn {
+	display: none !important;
+}
+.submitbtns {
+	display: none !important;
+}
+#mod-quiz-attempt input {
+	display: none !important;
+}
+.grade {
+	display: none !important;
+}
+.prompt {
+	display: none !important;
+}
+.edit {
+	display: none !important;
+}
+#mod-quiz-attempt .numerical > .content > .ablock {
+	display: none !important;
+}
+#mod-quiz-attempt .shortanswer > .content > .ablock {
+	display: none !important;
+}
+#mod-quiz-attempt .que {
+	border: 0px currentColor;
+}
+#mod-resource-view .box {
+	border: 0px currentColor;
+}

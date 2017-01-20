@@ -1,0 +1,16 @@
+ul.nav {width: 12em;}
+ul.nav {
+	background-color:#0000FF;
+	border-top: solid 1px #0000FF;
+	text-align: left;
+}	
+ul.nav li a {
+	display: block;
+	text-decoration: none;
+	border-bottom: 1px solid #3399CC;
+	border-right: 1px solid #3399CC;
+}
+a:link, a:visited {color:#FFFFFF;}
+a:hover, a:active {color:#000000;}
+a:hover {background-color:#FFFFFF;}
+p a:link, p a:visited {color:#000000;}

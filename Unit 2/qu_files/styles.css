@@ -1,0 +1,3927 @@
+h1.main {
+	text-align: center;
+}
+h2.main {
+	text-align: center;
+}
+h3.main {
+	text-align: center;
+}
+h4.main {
+	text-align: center;
+}
+h5.main {
+	text-align: center;
+}
+h6.main {
+	text-align: center;
+}
+#layout-table {
+	width: 100%; margin-top: 8px; border-collapse: separate;
+}
+#layout-table #left-column {
+	vertical-align: top;
+}
+#layout-table #middle-column {
+	vertical-align: top;
+}
+#layout-table #right-column {
+	vertical-align: top;
+}
+#layout-table #middle-column {
+	padding-right: 12px; padding-left: 12px;
+}
+.clearer {
+	margin: 0px; padding: 0px; border: currentColor; height: 1px; clear: both; display: block;
+}
+.clearfix {
+	min-width: 0px;
+}
+.clearfix::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+#redirect {
+	text-align: center;
+}
+#redirect #message {
+	
+}
+#redirect #continue {
+	
+}
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+.mdl-align {
+	text-align: center;
+}
+.mdl-left {
+	text-align: left;
+}
+.mdl-right {
+	text-align: right;
+}
+.continuebutton {
+	text-align: center;
+}
+form {
+	margin-bottom: 0px;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+a img {
+	border: currentColor;
+}
+img.userpicture {
+	border: 0px currentColor;
+}
+img.grouppicture {
+	border: 0px currentColor;
+}
+#grouppicture {
+	text-align: center;
+}
+div.groupselector {
+	margin-top: 3px; margin-bottom: 3px; float: left;
+}
+#addmembersform table {
+	margin-right: auto; margin-left: auto;
+}
+.notifyproblem {
+	padding: 10px; text-align: center;
+}
+.notifysuccess {
+	padding: 10px; text-align: center;
+}
+.notifytiny {
+	padding: 0px; text-align: left;
+}
+.singlebutton form {
+	display: inline;
+}
+.singlebutton div {
+	display: inline;
+}
+.box {
+	clear: both;
+}
+.generalbox {
+	border-width: 1px; border-style: solid; padding: 10px; margin-bottom: 15px;
+}
+.generalbox#intro {
+	width: 70%; padding-bottom: 15px; margin-right: auto; margin-left: auto;
+}
+.boxaligncenter {
+	margin-right: auto; margin-left: auto;
+}
+.boxalignright {
+	margin-right: 0px; margin-left: auto;
+}
+.boxalignleft {
+	margin-right: auto; margin-left: 0px;
+}
+.boxwidthnarrow {
+	width: 30%;
+}
+.boxwidthnormal {
+	width: 50%;
+}
+.boxwidthwide {
+	width: 80%;
+}
+.centerpara {
+	text-align: center;
+}
+.noticebox {
+	border-width: 1px; border-style: solid; padding: 10px;
+}
+.generalbox#notice {
+	width: 60%; margin-right: auto; margin-left: auto;
+}
+#notice .buttons {
+	text-align: center;
+}
+#notice .buttons div {
+	display: inline;
+}
+#notice .buttons form {
+	display: inline;
+}
+#notice .singlebutton {
+	margin: 0px; padding: 5px; text-align: center;
+}
+.errorbox {
+	border-width: 1px; border-style: solid; margin: 1em 15%; padding: 10px; width: 70%;
+}
+.errorbox .title {
+	padding: 5px;
+}
+.informationbox {
+	border-width: 1px; border-style: solid; padding: 10px;
+}
+.feedbackbox {
+	border-width: 1px; border-style: solid;
+}
+.feedbackby {
+	
+}
+.feedback {
+	
+}
+.rsslink {
+	padding: 0px 0px 0px 0.3em;
+}
+.printicon {
+	padding: 0px 0px 0px 0.3em;
+}
+.generaltable {
+	border-width: 1px; border-style: solid;
+}
+.generaltable .cell {
+	border-width: 1px; border-style: solid; border-collapse: collapse;
+}
+#participationreport .reporttable {
+	text-align: center; margin-right: auto; margin-left: auto;
+}
+#participationreport {
+	text-align: center;
+}
+#participationreport .modulename {
+	font-weight: bold;
+}
+#participationreportselector {
+	text-align: center;
+}
+#participationreportactions {
+	text-align: center;
+}
+.initialbar {
+	text-align: center;
+}
+#help .indent {
+	margin-left: 3em;
+}
+.closewindow {
+	text-align: center;
+}
+#help .helpindex {
+	text-align: center;
+}
+.tabledivider {
+	border-width: 0px 0px 1px; border-style: none none solid; border-top-color: currentColor; border-right-color: currentColor; border-left-color: currentColor;
+}
+.sitetopic {
+	margin-bottom: 20px;
+}
+.sitetopiccontent {
+	border-width: 1px; border-style: solid;
+}
+.pagingbar {
+	text-align: center;
+}
+table.formtable {
+	margin: auto;
+}
+table.formtable tbody th {
+	vertical-align: top;
+}
+table.formtable tbody td {
+	padding: 5px;
+}
+table.formtable tbody th {
+	padding: 5px;
+}
+table.formtable tbody .htmlarea td {
+	padding: 0px;
+}
+table.formtable tbody .htmlarea th {
+	padding: 0px;
+}
+.flexible th {
+	white-space: nowrap;
+}
+.paging {
+	margin: 10px 0px; text-align: center;
+}
+.unread {
+	padding-right: 2px;
+}
+.cell {
+	vertical-align: top;
+}
+.helplink img {
+	margin: 0px 2px; width: 17px; height: 17px; vertical-align: middle;
+}
+img.emoticon {
+	width: 15px; height: 15px; vertical-align: middle;
+}
+form.popupform {
+	display: inline;
+}
+form.popupform div {
+	display: inline;
+}
+form.popupform label {
+	margin-right: 0.5em;
+}
+.arrow_button {
+	margin-top: 3em;
+}
+.arrow_button input {
+	padding: 0.3em; overflow: hidden;
+}
+.groupmanagementtable td {
+	vertical-align: top;
+}
+.groupmanagementtable p {
+	text-align: center;
+}
+.groupmanagementtable select {
+	width: 18em;
+}
+#group-groupings .buttons {
+	margin: 20px; text-align: center;
+}
+#group-groupings .buttons .singlebutton {
+	padding: 5px; display: inline;
+}
+#group-usersummary {
+	width: 14em;
+}
+img.icon {
+	border: 0px currentColor; width: 16px; height: 16px; margin-right: 4px; vertical-align: middle;
+}
+img.iconsmall {
+	border: 0px currentColor; width: 11px; height: 11px; margin-right: 1px; vertical-align: middle;
+}
+img.iconhelp {
+	border: 0px currentColor; width: 17px; height: 17px; margin-right: 4px; vertical-align: middle;
+}
+img.iconkbhelp {
+	border: 0px currentColor; width: 49px; height: 17px;
+}
+.accesshide {
+	left: 10px; top: -100000px; font-size: 1em; font-weight: normal; position: absolute;
+}
+.invisiblefieldset {
+	margin: 0px; padding: 0px; border: 0px currentColor; display: inline;
+}
+span.hide {
+	display: none;
+}
+div.hide {
+	display: none;
+}
+.mform {
+	margin: 0px auto; padding: 0px; width: 80%;
+}
+.mform fieldset {
+	margin: 0.7em 0px; padding: 10px 0px; border: 1px solid rgb(221, 221, 221); width: 100%;
+}
+.mform fieldset.hidden {
+	border: 0px currentColor;
+}
+.mform fieldset.felement {
+	border: 0px currentColor;
+}
+.mform fieldset.felement {
+	width: auto;
+}
+.mform fieldset legend {
+	font-weight: bold; margin-left: 0.5em;
+}
+.mform fieldset .advancedbutton {
+	width: 100%; text-align: right;
+}
+.mform div.fitem {
+	width: 100%; clear: both; min-height: 1.5em;
+}
+.mform .fitemtitle {
+	margin: 5px 0px 0px 10px; padding: 0px; width: 30%; text-align: right; float: left; display: block;
+}
+.mform .fitemtitle div {
+	display: inline;
+}
+div.fitem fieldset.fgroup label {
+	width: auto; float: none; display: inline;
+}
+div.fradio label {
+	width: auto; float: none; display: inline;
+}
+div.fcheckbox label {
+	width: auto; float: none; display: inline;
+}
+fieldset.fdate_selector label {
+	width: auto; float: none; display: inline;
+}
+.mform div.felement {
+	margin: 5px 0px 0px 10px; padding: 0px; width: 60%; text-align: left; float: left; display: block;
+}
+.mform fieldset.felement {
+	margin: 5px 0px 0px 10px; padding: 0px; width: 60%; text-align: left; float: left; display: block;
+}
+.mform div.fdescription {
+	clear: both; min-height: 1.5em;
+}
+.mform .required.fdescription {
+	text-align: right;
+}
+.mform input {
+	width: auto;
+}
+.mform select {
+	width: auto;
+}
+.mform .ftextarea #id_alltext {
+	width: 100%;
+}
+.mform br {
+	clear: left;
+}
+.mform div.fhtmleditor {
+	margin: 0px auto 10px; padding: 25px 0px 20px; width: 600px; clear: both; float: none;
+}
+.mform span.error {
+	color: red;
+}
+.mform span.required {
+	color: red;
+}
+.mform div.error {
+	padding: 5px; border: 1px solid red; color: inherit;
+}
+.mform fieldset.error {
+	padding: 5px; border: 1px solid red; color: inherit;
+}
+.mform .fcheckbox input {
+	margin-left: 0px;
+}
+.mform .fpassword .unmask {
+	display: inline;
+}
+.mform .fpassword .unmask input {
+	margin-right: 3px; margin-left: 5px;
+}
+.mform label .req {
+	cursor: help;
+}
+.mform label .adv {
+	cursor: help;
+}
+div.mform div.fitem div.fstatic {
+	border: thin dashed rgb(211, 211, 211);
+}
+#admin-register .mform .fsubmit {
+	padding: 20px; text-align: center;
+}
+div.phpinfo .center {
+	text-align: center;
+}
+div.phpinfo .center table {
+	text-align: left; margin-right: auto; margin-left: auto;
+}
+div.phpinfo .center th {
+	text-align: center;
+}
+.backup-form-instances {
+	margin: 0px 20px;
+}
+.restore-form-instances {
+	margin: 0px 20px;
+}
+#header-home {
+	
+}
+#header {
+	
+}
+.headermain {
+	margin: 0px; padding: 0px; float: left;
+}
+h1.headermain {
+	margin: 0px; padding: 0px; float: left;
+}
+.headermenu {
+	text-align: right; float: right;
+}
+.navigation li {
+	display: inline;
+}
+.navigation div {
+	display: inline;
+}
+.navigation button {
+	display: inline;
+}
+.navigation form {
+	display: inline;
+}
+.navbar {
+	border-width: 1px; border-style: solid; padding: 3px 0.5em; width: auto;
+}
+.navbar .langmenu {
+	text-align: right;
+}
+table.navbar {
+	width: 100%;
+}
+.navbar .navbutton {
+	margin-top: 3px; float: left;
+}
+.navbar .navbutton div {
+	margin: 0px; padding: 0px; display: inline;
+}
+.navbar .navbutton form {
+	margin: 0px; padding: 0px; display: inline;
+}
+.navbar .breadcrumb {
+	margin: 0.2em 0px; float: left;
+}
+.breadcrumb ul {
+	list-style: none; margin: 0px; padding: 0px; text-indent: 0px;
+}
+.breadcrumb li {
+	display: inline;
+}
+.navbar .navbutton {
+	float: right;
+}
+.navbar .menu {
+	float: right;
+}
+#footer .navbar {
+	margin-top: 4em;
+}
+.reportlink {
+	text-align: right;
+}
+.navigation {
+	margin-bottom: 4px;
+}
+.navigation ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+.navigation ul li form {
+	margin: 0px 0px 0px 2px; padding: 0px; display: inline;
+}
+.navigation ul li {
+	margin: 0px 0px 0px 2px; padding: 0px; display: inline;
+}
+.navigation ul li form fieldset {
+	vertical-align: middle;
+}
+.navigation ul li form div select {
+	vertical-align: middle;
+}
+.navigation optgroup {
+	text-align: center; padding-top: 4px;
+}
+.navigation option {
+	text-align: left;
+}
+.navigation optgroup option {
+	padding: 0px;
+}
+#navmenupopup option {
+	background-position: 1px 2px; padding: 2px 0px 2px 20px; vertical-align: middle; background-repeat: no-repeat;
+}
+#navmenufooterpopup option {
+	background-position: 1px 2px; padding: 2px 0px 2px 20px; vertical-align: middle; background-repeat: no-repeat;
+}
+#footer {
+	text-align: center; margin-top: 40px;
+}
+.homelink {
+	margin: 1em 0px;
+}
+.homelink a {
+	padding-right: 1em; padding-left: 1em;
+}
+.sitelink {
+	padding-top: 1em;
+}
+.performanceinfo {
+	margin: 2em;
+}
+.performanceinfo span {
+	display: block;
+}
+#footer .validators {
+	padding-top: 5px; margin-top: 40px; border-top-color: gray; border-top-width: 1px; border-top-style: dotted;
+}
+#footer .validators ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+#footer .validators ul li {
+	margin-right: 10px; margin-left: 10px; display: inline;
+}
+.mediaplugin {
+	clear: both; margin-top: 5px; margin-bottom: 5px; display: block;
+}
+.mediaplugin_mp3 {
+	margin: 0px 0px 0px 0.5em; clear: none; display: inline;
+}
+.mediaplugin_swf {
+	margin: 0px 0px 0px 0.5em; clear: none; display: inline;
+}
+.mediaplugin_flv {
+	margin: 0px 0px 0px 0.5em; clear: none; display: inline;
+}
+.texrender {
+	border: 0px currentColor; vertical-align: middle;
+}
+body#admin-index .c0 {
+	vertical-align: top;
+}
+body#admin-index .c1 {
+	vertical-align: middle;
+}
+body#admin-blocks table.generaltable th {
+	white-space: nowrap;
+}
+body#admin-filters table.generaltable th {
+	white-space: nowrap;
+}
+body#admin-modules table.generaltable th {
+	white-space: nowrap;
+}
+body#admin-auth table.generaltable th {
+	white-space: nowrap;
+}
+body#admin-modules .generaltablecell {
+	padding-top: 2px; padding-bottom: 2px;
+}
+body#admin-blocks table.generaltable th {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-blocks table.generaltable td.cell {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-filters table.generaltable th {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-filters table.generaltable td.cell {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-modules table.generaltable th {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-modules table.generaltable td.cell {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-auth table.generaltable th {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-auth table.generaltable td.cell {
+	padding: 4px; text-align: center; vertical-align: middle;
+}
+body#admin-blocks table.generaltable th.c0 {
+	text-align: left;
+}
+body#admin-blocks table.generaltable td.c0 {
+	text-align: left;
+}
+body#admin-filters table.generaltable th.c0 {
+	text-align: left;
+}
+body#admin-filters table.generaltable td.c0 {
+	text-align: left;
+}
+body#admin-modules table.generaltable th.c0 {
+	text-align: left;
+}
+body#admin-modules table.generaltable td.c0 {
+	text-align: left;
+}
+body#admin-auth table.generaltable th.c0 {
+	text-align: left;
+}
+body#admin-auth table.generaltable td.c0 {
+	text-align: left;
+}
+body#admin-modules table.generaltable td.c0 {
+	white-space: nowrap;
+}
+#admin-blocks #admin-config .confighelp {
+	padding-bottom: 20px; display: block;
+}
+#admin-roles-manage table.generalbox {
+	margin: auto;
+}
+#admin-stickyblocks .generalbox {
+	text-align: center;
+}
+#admin-index .copyrightnotice {
+	margin: auto; text-align: center;
+}
+#admin-maintenance .buttons {
+	text-align: center;
+}
+#admin-report-unittest-index .exception pre {
+	padding: 8px;
+}
+#admin-report-unittest-index .unittestsummary {
+	padding: 8px; margin-top: 1em;
+}
+#admin-report-security-index #timewarning {
+	text-align: center;
+}
+#admin-report-security-index .timewarninghidden {
+	display: none;
+}
+#admin-roles-allowassign .buttons {
+	margin: 20px; text-align: center;
+}
+#admin-roles-allowoverride .buttons {
+	margin: 20px; text-align: center;
+}
+#admin-roles-manage .buttons {
+	margin: 20px; text-align: center;
+}
+#admin-roles-override .buttons {
+	margin: 20px; text-align: center;
+}
+#admin-roles-manage .buttons .singlebutton {
+	padding: 5px; display: inline;
+}
+#admin-roles-override .buttons .singlebutton {
+	padding: 5px; display: inline;
+}
+#admin-roles-manage .selector {
+	text-align: center; margin-bottom: 1em;
+}
+#admin-roles-assign .selector {
+	text-align: center; margin-bottom: 1em;
+}
+#admin-roles-override .selector {
+	text-align: center; margin-bottom: 1em;
+}
+#admin-roles-manage table.roledesc {
+	margin-right: auto; margin-left: auto;
+}
+#admin-roles-override table.roledesc {
+	margin-right: auto; margin-left: auto;
+}
+#admin-roles-manage table.rolecap {
+	margin-right: auto; margin-left: auto;
+}
+#admin-roles-override table.rolecap {
+	margin-right: auto; margin-left: auto;
+}
+.rolecap .inherit {
+	text-align: center;
+}
+.rolecap .allow {
+	text-align: center;
+}
+.rolecap .prevent {
+	text-align: center;
+}
+.rolecap .prohibit {
+	text-align: center;
+}
+#admin-roles-manage .rolecap .cap-desc .cap-name {
+	display: block;
+}
+#admin-roles-override .rolecap .cap-desc .cap-name {
+	display: block;
+}
+#admin-roles-override .c1.cell {
+	padding-top: 0.75em;
+}
+#admin-roles-assign .c3.cell {
+	padding-top: 0.75em;
+}
+#admin-roles-assign .c1.cell {
+	padding-top: 0.75em;
+}
+#admin-roles-override .sefeoverridenotice {
+	text-align: center;
+}
+#admin-lang .generalbox {
+	border-width: 1px; border-style: solid; margin: auto; text-align: center;
+}
+#admin-langimport .generalbox {
+	border-width: 1px; border-style: solid; margin: auto; text-align: center;
+}
+#admin-langimport .generalbox table {
+	margin: auto; text-align: center;
+}
+#admin-index .adminerror {
+	border-width: 1px; border-style: solid; margin: 20px; text-align: center;
+}
+#admin-index .adminwarning {
+	border-width: 1px; border-style: solid; margin: 20px; text-align: center;
+}
+#admin-index .adminerror .singlebutton {
+	margin: 20px; text-align: center;
+}
+#admin-index .adminwarning .singlebutton {
+	margin: 20px; text-align: center;
+}
+#admin-index #layout-table .singlebutton {
+	margin: 20px; text-align: center;
+}
+#admin-user-user_bulk #users .fgroup {
+	white-space: nowrap;
+}
+.plugincompattable caption {
+	width: 100%; text-align: center; font-size: 130%; font-weight: bold;
+}
+.plugincheckwrapper td {
+	border: 1px solid rgb(187, 187, 187);
+}
+.plugincheckwrapper {
+	width: 100%;
+}
+#adminsettings div.form-item {
+	margin: 1em 0px 2em; clear: both;
+}
+#adminsettings .form-label {
+	width: 12.5em; text-align: right; float: left; display: block;
+}
+#adminsettings .form-shortname {
+	display: block;
+}
+#adminsettings .form-setting {
+	text-align: left; margin-left: 13em; display: block;
+}
+#adminsettings .form-defaultinfo {
+	display: inline;
+}
+#adminsettings .defaultsnext {
+	margin-right: 0.5em; display: inline;
+}
+#adminsettings .form-description {
+	margin: 0.5em 0px 0em 13em; text-align: left; display: block;
+}
+#adminsettings fieldset {
+	padding: 1em 0.5em; margin-top: 1em;
+}
+#adminsettings legend {
+	display: none;
+}
+#adminsettings fieldset.error {
+	margin: 0.2em 0px 0.5em; padding: 0.5em 0px 0px;
+}
+#adminsettings fieldset.error legend {
+	display: block;
+}
+#adminsettings .form-multicheckbox li {
+	list-style: none;
+}
+#adminsettings .form-multicheckbox ul {
+	margin: 0px; padding: 0px;
+}
+#adminsettings .form-item .pathok {
+	margin-left: 0.5em;
+}
+#adminsettings .form-item .patherror {
+	margin-left: 0.5em;
+}
+#adminsettings .form-htmlarea {
+	width: 640px; display: inline;
+}
+#adminsettings .form-htmlarea .htmlarea {
+	width: 640px; display: block;
+}
+.environmentbox {
+	margin-top: 1em;
+}
+.form-buttons {
+	margin: 10px 0px 0px 13em;
+}
+.adminsearchform {
+	padding-top: 10px;
+}
+.block_admin_tree .admintree {
+	text-align: left;
+}
+.block_admin_tree .admintree .depth1 {
+	padding-left: 16px;
+}
+.block_admin_tree .admintree .depth2 {
+	padding-left: 32px;
+}
+.block_admin_tree .admintree .depth3 {
+	padding-left: 48px;
+}
+.block_admin_tree .admintree .depth4 {
+	padding-left: 64px;
+}
+#admin-lang .translator {
+	border-width: 1px; border-style: solid;
+}
+#adminsettings #admin-calendar_weekend table {
+	width: 100%;
+}
+#adminsettings #admin-calendar_weekend table td {
+	text-align: center;
+}
+#adminsettings #admin-calendar_weekend table td label {
+	width: 100%; text-align: center; float: none;
+}
+#trustedhosts .generaltable {
+	width: 500px; margin-right: auto; margin-left: auto;
+}
+#trustedhosts .standard {
+	width: auto;
+}
+#mnetconfig table {
+	margin-right: auto; margin-left: auto;
+}
+#admin-report-courseoverview-index .graph {
+	text-align: center; margin-bottom: 1em;
+}
+#course-report-stats-index .graph {
+	text-align: center; margin-bottom: 1em;
+}
+#admin-report-stats-index .graph {
+	text-align: center; margin-bottom: 1em;
+}
+#admin-uploaduser table#uuresults {
+	margin-bottom: 2em;
+}
+#admin-uploaduser table#uupreview {
+	padding-right: 3px; padding-left: 3px;
+}
+#admin-uploaduser table#uuresults td.cell {
+	padding-right: 3px; padding-left: 3px;
+}
+a.skip-block {
+	top: -1000em; font-size: 0.85em; position: absolute;
+}
+a.skip {
+	top: -1000em; font-size: 0.85em; position: absolute;
+}
+a.skip-block:focus {
+	display: block; position: static;
+}
+a.skip-block:active {
+	display: block; position: static;
+}
+a.skip:focus {
+	display: block; position: static;
+}
+a.skip:active {
+	display: block; position: static;
+}
+.skip-block-to {
+	height: 1px; display: block;
+}
+#maincontent {
+	height: 1px; display: block;
+}
+.sideblock {
+	width: 100%; margin-bottom: 1em;
+}
+.sideblock .header {
+	border-width: 1px 1px medium; border-style: solid solid none; margin: 0px; padding: 0px 4px 4px; text-align: left; border-bottom-color: currentColor;
+}
+.sideblock h2.header {
+	border-width: 1px 1px medium; border-style: solid solid none; margin: 0px; padding: 0px 4px 4px; text-align: left; border-bottom-color: currentColor;
+}
+.sideblock h2 {
+	margin: 0px; padding: 0px;
+}
+.sideblock .header .hide-show-image {
+	width: 11px; height: 11px; margin-top: 0.25em; float: right;
+}
+.sideblock .header .commands {
+	height: 16px; clear: both; margin-top: 0.3em;
+}
+.sideblock .header .commands a {
+	margin: 0px 2px;
+}
+#left-column .hidden .header {
+	border-bottom-width: 1px; border-bottom-style: solid;
+}
+#right-column .hidden .header {
+	border-bottom-width: 1px; border-bottom-style: solid;
+}
+#left-column .hidden .content {
+	display: none;
+}
+#right-column .hidden .content {
+	display: none;
+}
+.sideblock .header .hide.icon {
+	margin-right: 6px;
+}
+.sideblock .header .edit.icon {
+	margin-right: 6px;
+}
+.sideblock .content {
+	border-width: 1px; border-style: solid; padding: 4px;
+}
+.sideblock .content h3 {
+	text-align: left;
+}
+.sideblock .content h2 {
+	text-align: left;
+}
+.sideblock .content h2 {
+	margin: 1.5em 0px 0px; padding: 0px;
+}
+.sideblock .content .head {
+	margin-top: 10px;
+}
+.sideblock .content hr {
+	border-width: 1px medium medium; border-style: solid none none; border-color: currentColor; height: 1px; margin-top: 4px; margin-bottom: 4px;
+}
+.sideblock div.column {
+	margin: 0px 4px 0px 0px; padding: 0px;
+}
+.sideblock div.c0.column {
+	float: left;
+}
+.sideblock div.c1.column {
+	display: inline;
+}
+.sideblock .content .c0 img.icon {
+	margin: 0px;
+}
+.sideblock .content .list {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.unlist {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.inline-list {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.sideblock .content .list {
+	width: 100%;
+}
+.sideblock .content .list li {
+	clear: left;
+}
+.sideblock .content .inline-list li {
+	display: inline;
+}
+.inline-list li {
+	display: inline;
+}
+.sideblock .content ul.list li.listentry {
+	clear: both;
+}
+.sideblock .content div.info {
+	text-align: center;
+}
+.sideblock .footer {
+	text-align: center; clear: both; margin-bottom: 4px;
+}
+.sideblock img.userpicture {
+	width: 16px; height: 16px; margin-right: 4px;
+}
+.blockconfigtable {
+	margin-top: 0px; margin-right: auto; margin-left: auto;
+}
+.blockconfigtable td.label {
+	width: 50%; text-align: right;
+}
+.blockconfigtable td.value {
+	width: 50%; text-align: left;
+}
+.blockconfigtable td.submit {
+	text-align: center;
+}
+.blockconfiginstancecontent .tabs {
+	margin-right: auto; margin-bottom: 0px; margin-left: auto;
+}
+.block_adminblock {
+	width: 180px;
+}
+.block_messages .content {
+	text-align: left; padding-top: 5px; font-size: 0.75em;
+}
+.block_recent_activitysideblock .h3 {
+	padding-top: 5px;
+}
+.block_online_users .listentry div.user {
+	float: left;
+}
+.block_messages .listentry div.user {
+	float: left;
+}
+.block_online_users .listentry div.message {
+	float: right;
+}
+.block_messages .listentry div.message {
+	float: right;
+}
+.block_course_list .footer {
+	margin-top: 5px;
+}
+#rssfeeds {
+	margin-right: auto; margin-left: auto;
+}
+#block_rss {
+	text-align: center;
+}
+.block_search_forums .invisiblefieldset {
+	display: block;
+}
+.block_tag_youtube .youtube-thumb {
+	padding: 3px 3px 0.5em; float: left; display: block;
+}
+.block_tag_youtube .yt-video-entry li {
+	clear: left;
+}
+.block_tag_flickr .flickr-photos {
+	padding: 3px;
+}
+.addbloglink {
+	text-align: center;
+}
+.blogpost .audience {
+	text-align: right;
+}
+.blogpost .tags {
+	margin-top: 15px;
+}
+#calendar {
+	width: 100%; border-collapse: separate; border-spacing: 5px;
+}
+#calendar h2 {
+	text-align: center;
+}
+#calendar h3 {
+	text-align: center;
+}
+#calendar .sideblock h2 {
+	text-align: left;
+}
+#calendar .maincalendar {
+	padding: 0px; border: 1px solid currentColor; vertical-align: top;
+}
+#calendar .sidecalendar {
+	padding: 0px; border: 1px solid currentColor; vertical-align: top;
+}
+#calendar .maincalendar {
+	height: 100%;
+}
+#calendar .maincalendar .heightcontainer {
+	height: 100%; position: relative;
+}
+#calendar .maincalendar .bottom {
+	padding: 5px 0px 0px; width: 100%; text-align: center;
+}
+#calendar .sidecalendar {
+	width: 25%;
+}
+#calendar .maincalendar table.calendarmonth {
+	margin: 0px auto; width: 98%; border-collapse: separate;
+}
+#calendar .maincalendar table.calendarmonth th {
+	padding: 10px; border-bottom-color: currentColor; border-bottom-width: 2px; border-bottom-style: solid;
+}
+#calendar .maincalendar table.calendarmonth td {
+	height: 5em; line-height: 1.2em; padding-top: 4px; padding-left: 4px;
+}
+#calendar .maincalendar table.calendarmonth td {
+	width: 14%; vertical-align: top;
+}
+table.minicalendar td {
+	width: 14%; vertical-align: top;
+}
+table.minicalendar th {
+	width: 14%; vertical-align: top;
+}
+table.minicalendar td {
+	text-align: center;
+}
+#calendar .maincalendar table.calendarmonth td table td {
+	height: auto;
+}
+#calendar div.header {
+	padding: 5px;
+}
+#calendar .sideblock div.header {
+	border: currentColor;
+}
+#calendar .maincalendar .buttons {
+	float: right;
+}
+#calendar .maincalendar .filters table {
+	padding: 2px; width: 100%; border-collapse: separate; border-spacing: 2px;
+}
+#calendar .sidecalendar .filters table {
+	padding: 2px; width: 100%; border-collapse: separate; border-spacing: 2px;
+}
+.block_calendar_month.sideblock .filters table {
+	padding: 2px; width: 100%; border-collapse: separate; border-spacing: 2px;
+}
+#calendar .maincalendar .filters {
+	padding: 0px 10px;
+}
+#calendar .sidecalendar .filters {
+	padding: 5px;
+}
+#calendar .maincalendar .controls {
+	padding: 10px; clear: both;
+}
+#calendar .maincalendar table.calendarmonth ul.events-new {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+#calendar .maincalendar table.calendarmonth ul.events-underway {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+#calendar .maincalendar table.calendarmonth ul li {
+	margin-top: 4px;
+}
+.minicalendarblock {
+	padding: 0px 4px;
+}
+table.minicalendar {
+	border-width: 1px; border-style: solid; margin: 10px auto; padding: 2px; width: 100%; border-collapse: separate; border-spacing: 1px !important;
+}
+table.minicalendar th {
+	padding: 0px 2px;
+}
+#calendar .maincalendar .eventlist {
+	padding: 10px;
+}
+#calendar .maincalendar .eventlist .topic {
+	border-width: 0px 0px 1px; border-style: solid; padding: 5px; border-bottom-color: rgb(238, 238, 238);
+}
+#calendar .maincalendar .eventlist .event {
+	border-width: 1px; border-style: solid; width: 100%; margin-bottom: 10px; border-collapse: separate; border-spacing: 0px;
+}
+#calendar .maincalendar .eventlist .event .name {
+	float: left;
+}
+#calendar .maincalendar .eventlist .event .course {
+	clear: left; float: left;
+}
+#calendar .maincalendar .eventlist .event .date {
+	float: right;
+}
+#calendar .maincalendar .eventlist .event .description .commands {
+	width: 100%;
+}
+#calendar .maincalendar .eventlist .event .description {
+	padding: 5px;
+}
+#calendar .maincalendar .eventlist .event .picture {
+	padding: 8px;
+}
+#calendar .maincalendar .eventlist .event .side {
+	width: 32px;
+}
+#calendar #selecteventtype table {
+	margin: auto;
+}
+#calendar .event_global {
+	border: 2px solid currentColor !important;
+}
+#calendar .event_course {
+	border: 2px solid currentColor !important;
+}
+#calendar .event_group {
+	border: 2px solid currentColor !important;
+}
+#calendar .event_user {
+	border: 2px solid currentColor !important;
+}
+.minicalendar .event_global {
+	border: 2px solid currentColor !important;
+}
+.minicalendar .event_course {
+	border: 2px solid currentColor !important;
+}
+.minicalendar .event_group {
+	border: 2px solid currentColor !important;
+}
+.minicalendar .event_user {
+	border: 2px solid currentColor !important;
+}
+#calendar .duration_global {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+#calendar .duration_course {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+#calendar .duration_group {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+#calendar .duration_user {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+.minicalendar .duration_global {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+.minicalendar .duration_course {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+.minicalendar .duration_group {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+.minicalendar .duration_user {
+	border-top-color: currentColor !important; border-bottom-color: currentColor !important; border-top-width: 2px !important; border-bottom-width: 2px !important; border-top-style: solid !important; border-bottom-style: solid !important;
+}
+#calendar .today {
+	border: 2px solid currentColor;
+}
+.minicalendar .today {
+	border: 2px solid currentColor;
+}
+#calendar .nottoday {
+	border: 1px solid currentColor;
+}
+.minicalendar .today {
+	border: 1px solid currentColor;
+}
+.cal_popup_bg {
+	margin: 0px; padding: 0px; border: 1px solid currentColor;
+}
+.cal_popup_close {
+	margin-right: 5px;
+}
+.cal_popup_caption {
+	border-width: 0px 0px 1px; border-style: solid; padding-bottom: 2px;
+}
+.calendar-controls .previous {
+	width: 12%; float: left; display: block;
+}
+.calendar-controls .next {
+	width: 12%; float: left; display: block;
+}
+.calendar-controls .current {
+	width: 12%; float: left; display: block;
+}
+.calendar-controls .previous {
+	text-align: left;
+}
+.calendar-controls .current {
+	width: 76%; text-align: center;
+}
+.calendar-controls .next {
+	text-align: right;
+}
+#calendar .maincalendar .calendar-controls .previous {
+	width: 30%;
+}
+#calendar .maincalendar .calendar-controls .next {
+	width: 30%;
+}
+#calendar .maincalendar .calendar-controls .current {
+	width: 39.95%;
+}
+#calendar .indent {
+	padding-left: 20px;
+}
+#calendar td.sidecalendar {
+	border-width: 0px;
+}
+#calendar td.sidecalendar .sideblock {
+	border: 1px solid currentColor; margin-bottom: 10px;
+}
+#calendar td.sidecalendar .minicalendartop {
+	padding-top: 10px;
+}
+.sideblock .content h3.eventskey {
+	margin-top: 0.5em; margin-bottom: 0px; margin-left: 0.5em;
+}
+.activitydate {
+	text-align: center;
+}
+.activityhead {
+	text-align: center;
+}
+#course-view .section td {
+	vertical-align: top;
+}
+#course-view .section td.content {
+	border-width: 1px 0px; border-style: solid none; padding: 5px; border-right-color: currentColor; border-left-color: currentColor;
+}
+#course-view .section td.side {
+	border-width: 1px; border-style: solid; padding: 5px;
+}
+#course-view .section td.left {
+	width: 1.5em; text-align: center; border-right-color: currentColor; border-right-width: 0px; border-right-style: none;
+}
+#course-view .section td.right {
+	width: 1.5em; text-align: center; border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+#course-view .current .side {
+	
+}
+#course-view .section .spacer {
+	height: 0.5em;
+}
+#course-view .section .weekdates {
+	
+}
+#course-view ul.section {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#site-index ul.section {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.section_add_menus {
+	text-align: right;
+}
+.section_add_menus .horizontal div {
+	display: inline;
+}
+#course-view ul.weekscss {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.weekscss-format {
+	min-width: 763px;
+}
+.weekscss-format .block_adminblock select {
+	padding: 0px; width: 100%;
+}
+.weekscss-format .block_calendar_month .minicalendar {
+	padding: 0px; width: 100%;
+}
+.weekscss-format .block_calendar_month .minicalendar th {
+	padding: 0.1em 0px 0.1em 1px;
+}
+.weekscss-format .block_calendar_month .minicalendar td {
+	padding: 0.1em 0px 0.1em 1px;
+}
+.weekscss-format #middle-column {
+	margin: 0px 12.5em;
+}
+.weekscss-format #left-column {
+	width: 11.5em;
+}
+.weekscss-format #right-column {
+	width: 11.5em;
+}
+.weekscss-format #left-column {
+	float: left;
+}
+.weekscss-format #right-column {
+	float: right;
+}
+.weekscss li.section {
+	border-width: 1px; border-style: solid; margin-bottom: 0.5em;
+}
+.weekscss .content {
+	padding: 5px;
+}
+.weekscss .side {
+	padding: 5px;
+}
+.weekscss .content {
+	margin: 0px 1.7em;
+}
+.weekscss .right {
+	width: 1.6em; text-align: center; float: right;
+}
+.section .activity img.activityicon {
+	width: 16px; height: 16px; vertical-align: middle;
+}
+.section img.movetarget {
+	width: 80px; height: 16px;
+}
+body#course-view .unread {
+	margin-left: 3em;
+}
+body#course-view .drag.sideblock .header {
+	cursor: move;
+}
+body#course-enrol .generalbox {
+	margin-top: 20px;
+}
+body#course-enrol .coursebox {
+	margin-top: 20px;
+}
+body#course-user .graph {
+	text-align: center;
+}
+body#course-user .section {
+	margin-right: 30px; margin-left: 30px;
+}
+body#course-user .content {
+	margin-right: 30px; margin-left: 30px;
+}
+body#course-user .section {
+	border-width: 1px; border-style: solid; padding: 10px; margin-bottom: 20px;
+}
+body#course-user .section h2 {
+	margin-top: 0px;
+}
+.headingblock {
+	border-width: 1px; border-style: solid; margin: 0px; padding: 5px;
+}
+h2.headingblock {
+	border-width: 1px; border-style: solid; margin: 0px; padding: 5px;
+}
+#site-index .subscribelink {
+	text-align: right;
+}
+#course-view .subscribelink {
+	text-align: right;
+}
+body#site-index .headingblock {
+	margin-bottom: 9px;
+}
+body#course-view .headingblock {
+	margin-bottom: 9px;
+}
+body#course-category .courseboxes {
+	padding: 20px;
+}
+body#course-index .courseboxes {
+	padding: 20px;
+}
+body#course-category .rolelink {
+	padding: 10px; text-align: right;
+}
+body#course-category .addcategory {
+	padding: 10px; text-align: center;
+}
+body#course-index .buttons .singlebutton {
+	display: inline;
+}
+body#course-category .buttons .singlebutton {
+	display: inline;
+}
+body#course-index .buttons {
+	text-align: center; margin-bottom: 15px;
+}
+body#course-category .buttons {
+	text-align: center; margin-bottom: 15px;
+}
+body#course-index #middle-column .editcourse {
+	margin: 20px auto;
+}
+body#course-index #middle-column .editcourse th {
+	padding-right: 10px; padding-left: 10px;
+}
+body#course-index #middle-column .editcourse td {
+	padding-right: 10px; padding-left: 10px;
+}
+body#course-index #middle-column .editcourse .count {
+	text-align: right;
+}
+body#course-index .singlebutton {
+	text-align: center;
+}
+body#course-index .addcategory {
+	text-align: center;
+}
+body#course-info .icons.generalbox {
+	text-align: center;
+}
+body#course-info .info.generalbox {
+	margin-right: auto; margin-left: auto;
+}
+.coursebox {
+	border-width: 1px; border-style: solid; width: 100%; margin-bottom: 15px;
+}
+.coursebox .summary {
+	padding: 5px; width: 48%; text-align: left; float: right;
+}
+.coursebox .info {
+	padding: 5px; width: 48%; text-align: left; float: left;
+}
+#my-index .coursebox .info {
+	float: none;
+}
+#my-index .name {
+	margin-left: 5px;
+}
+#course-pending .pendingcourserequests {
+	margin-bottom: 1em;
+}
+#course-pending .pendingcourserequests .singlebutton {
+	display: inline;
+}
+#course-pending .pendingcourserequests .cell {
+	padding: 0px 5px;
+}
+#course-pending .pendingcourserequests .c6.cell {
+	white-space: nowrap;
+}
+#course-pending .singlebutton {
+	text-align: center;
+}
+.categorylist {
+	width: 90%; margin-right: auto; margin-left: auto;
+}
+.categorylist .image.category {
+	width: 20px;
+}
+.categorylist .number.category {
+	text-align: right;
+}
+.categorylist .indentation.category {
+	width: 1px;
+}
+.categoryboxcontent {
+	border-width: 1px; border-style: solid;
+}
+.categorypicker {
+	text-align: center; padding-bottom: 10px;
+}
+#coursesearch {
+	text-align: center; margin-top: 1em;
+}
+#coursesearch2 {
+	text-align: center; margin-top: 1em;
+}
+.addcoursebutton {
+	text-align: center;
+}
+.coursebox .cost {
+	padding-top: 20px;
+}
+.coursebox ul.teachers li {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+#course-category #renameform {
+	text-align: center;
+}
+#course-category #themeform {
+	text-align: center;
+}
+#course-category .singlebutton {
+	text-align: center;
+}
+#course-category #coursesearch {
+	text-align: center;
+}
+#course-report #content {
+	padding-top: 15px; padding-bottom: 15px;
+}
+#course-report p {
+	text-align: center;
+}
+#course-report .logselectform {
+	margin: 10px auto; text-align: center;
+}
+#course-report .participationselectform {
+	margin: 10px auto; text-align: center;
+}
+#course-report-log-index .logselectform {
+	margin: 10px auto; text-align: center;
+}
+#course-report-participation-index .participationselectform {
+	margin: 10px auto; text-align: center;
+}
+#course-report .participationselectform label {
+	margin-right: 5px; margin-left: 15px;
+}
+#course-report-participation-index .participationselectform label {
+	margin-right: 5px; margin-left: 15px;
+}
+#course-report-log-index .info {
+	margin: 10px; text-align: center;
+}
+#course-report-log-indexlive .info {
+	margin: 10px; text-align: center;
+}
+.course-report-outline td.numviews {
+	text-align: right;
+}
+.course-report-outline div.loginfo {
+	margin: 1em; text-align: center;
+}
+#content .coursebox .summary .category {
+	text-align: right;
+}
+#course-editsection .singlebutton {
+	text-align: center;
+}
+.jumpmenu {
+	text-align: center;
+}
+body#group-index #groupeditform {
+	text-align: center;
+}
+#add {
+	text-align: center;
+}
+#remove {
+	text-align: center;
+}
+body#doc-contents h1 {
+	margin: 1em 0px 0px;
+}
+body#doc-contents ul {
+	margin: 0px; padding: 0px; width: 90%; list-style-type: none;
+}
+.grade-edit-scale .buttons {
+	margin: 20px; text-align: center;
+}
+.grade-edit-scale .buttons .singlebutton {
+	padding: 5px; display: inline;
+}
+.grade-edit-outcome .buttons {
+	margin: 20px; text-align: center;
+}
+.grade-edit-outcome .buttons .singlebutton {
+	padding: 5px; display: inline;
+}
+div.allcoursegrades {
+	padding: 4px 0px 5px; width: 100%; text-align: right;
+}
+.grade-edit-tree .gradetreebox {
+	width: 70%; padding-bottom: 15px; margin-top: 10px; margin-right: auto; margin-left: auto;
+}
+.grade-edit-tree .buttons {
+	margin: 20px; text-align: center;
+}
+.grade-edit-tree .idnumber {
+	margin-left: 15px;
+}
+.grade-edit-tree .buttons .singlebutton {
+	padding: 5px; display: inline;
+}
+.grade-edit-tree .movetarget {
+	width: 80px; height: 16px; position: relative;
+}
+.grade-edit-tree ul#grade_tree {
+	width: auto;
+}
+.grade-edit-tree ul#grade_tree li {
+	list-style: none;
+}
+.grade-edit-tree ul#grade_tree li.category {
+	margin-bottom: 6px;
+}
+.grade-edit-tree .iconsmall {
+	margin-left: 4px;
+}
+#grade-report-toggles {
+	text-align: center;
+}
+.gradeexportlink {
+	padding: 2em; text-align: center; margin-right: auto; margin-left: auto;
+}
+#grade-aggregation-help dt {
+	margin-top: 15px;
+}
+#grade-aggregation-help dd.example {
+	margin-top: 7px;
+}
+#grade-aggregation-help code {
+	margin-top: 7px; display: block;
+}
+.loginbox {
+	border: 1px solid currentColor; width: 50%; overflow: hidden; margin-top: 15px; margin-bottom: 15px; margin-left: 25%;
+}
+.loginbox form {
+	margin: 0px; padding: 0px;
+}
+.twocolumns.loginbox {
+	width: 90%; margin-left: 5%;
+}
+.loginbox h2 {
+	margin: 5px; padding: 10px; text-align: center;
+}
+.loginbox .subcontent {
+	margin: 5px; padding: 10px; text-align: center;
+}
+.loginbox .loginpanel .subcontent {
+	text-align: center;
+}
+.loginbox .loginpanel .desc {
+	margin: 0px 0px 5px; padding: 0px;
+}
+.loginbox .signuppanel .subcontent {
+	text-align: left;
+}
+.loginbox .loginsub {
+	margin-right: 0%; margin-left: 0%;
+}
+.loginbox .guestsub {
+	margin-right: 12%; margin-bottom: 5px; margin-left: 12%; border-top-color: currentColor; border-top-width: 1px; border-top-style: solid;
+}
+.loginbox .forgotsub {
+	margin-right: 12%; margin-bottom: 5px; margin-left: 12%; border-top-color: currentColor; border-top-width: 1px; border-top-style: solid;
+}
+.loginbox .loginform {
+	text-align: left; margin-top: 1em;
+}
+.loginbox .loginform .form-label {
+	width: 40%; text-align: right; float: left;
+}
+.loginbox .loginform .form-input {
+	width: 59%; float: right;
+}
+.loginbox .loginform .form-input input {
+	width: 6em;
+}
+.loginbox .signupform {
+	text-align: center; margin-top: 1em;
+}
+.twocolumns.loginbox .loginpanel {
+	width: 49.5%; padding-bottom: 2000px; margin-bottom: -2000px; border-right-color: currentColor; border-right-width: 1px; border-right-style: solid; float: left;
+}
+.twocolumns.loginbox .signuppanel {
+	width: 50%; padding-bottom: 2000px; margin-bottom: -2000px; float: right;
+}
+#message-user .userpicture {
+	width: 100px; height: 100px;
+}
+#message-history .userpicture {
+	width: 100px; height: 100px;
+}
+.message-discussion-noframes #userinfo .userpicture {
+	float: left;
+}
+.message-discussion-noframes #userinfo .name h1 {
+	margin: 0px;
+}
+.message-discussion-noframes #userinfo .name {
+	text-align: center; margin-left: 60px;
+}
+.message-discussion-noframes #userinfo .commands {
+	text-align: left; margin-left: 60px;
+}
+.message-discussion-noframes #userinfo .commands ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+.message-discussion-noframes #userinfo .commands ul li {
+	padding-right: 16px; display: inline;
+}
+.message-discussion-noframes #send {
+	padding-top: 10px; clear: both;
+}
+.message-discussion-noframes #send h1 {
+	margin: 0px;
+}
+.message-discussion-noframes #messages {
+	padding-top: 10px;
+}
+.message-discussion-noframes #messages ul.messagelist {
+	margin: 0px; padding: 0px;
+}
+.message-discussion-noframes #send h1 {
+	margin: 0px;
+}
+.message .noframesjslink {
+	margin-top: 20px;
+}
+.message .link {
+	vertical-align: middle;
+}
+table.message .searchresults td {
+	border-width: 1px; border-style: solid; padding: 5px; border-collapse: collapse; border-spacing: 0px;
+}
+.message .summary .link {
+	text-align: right;
+}
+.message .heading {
+	text-align: center;
+}
+.message .note {
+	padding: 10px; text-align: center;
+}
+#message-user .commands span {
+	margin-right: 10px; margin-left: 10px;
+}
+body#message-messages {
+	padding: 10px;
+}
+body#message-send .notifysuccess {
+	padding: 1px;
+}
+body#message-send td.fixeditor {
+	text-align: center;
+}
+.notepost {
+	margin-bottom: 1em; background-color: rgb(238, 238, 238);
+}
+.sitenotepost {
+	
+}
+.coursenotepost {
+	
+}
+.draftnotepost {
+	
+}
+.ownnotepost .info {
+	
+}
+.notepost .header {
+	background: rgb(221, 221, 221); padding: 5px;
+}
+.notepost .user {
+	font-weight: bolder;
+}
+.notepost .userpicture {
+	margin-right: 5px; float: left;
+}
+.notepost .info {
+	font-size: smaller;
+}
+.notepost .content {
+	clear: both;
+}
+.notepost .footer {
+	clear: both;
+}
+body.notes .generalbox {
+	width: 90%; margin-right: auto; margin-left: auto;
+}
+body.notes .notesgroup {
+	margin-left: 20px;
+}
+.my .coursebox .overview .info {
+	margin-left: 20px;
+}
+.my .coursebox .overview {
+	margin-bottom: 10px;
+}
+.questionbank h2 {
+	margin-top: 0px;
+}
+.questioncategories h3 {
+	margin-top: 0px;
+}
+.que {
+	margin: 0px auto 1.8em; border: 1px solid currentColor; text-align: left; clear: both;
+}
+.que .info {
+	margin: 0.5em 0px 0.5em 1.2em; width: 8%; float: left;
+}
+.que .content {
+	margin: 0.5em 1.2em 0.5em 0px; width: 85%; float: left;
+}
+.description.que .info {
+	margin: 0.5em 0px 0.5em 0.2em; width: 1em;
+}
+.description.que .content {
+	width: auto; margin-bottom: 0.5em; margin-left: 1.2em; float: none;
+}
+.description.que .generalfeedback {
+	width: auto; margin-bottom: 0.5em; margin-left: 1.2em; float: none;
+}
+.description.que .qtext {
+	margin-bottom: 0px;
+}
+.que .qtext {
+	margin-bottom: 1.5em;
+}
+.que .ablock {
+	margin: 0.7em 0px 0.3em;
+}
+.que .prompt {
+	width: 15%; height: 2em; padding-top: 0.3em; float: left;
+}
+.que .control {
+	width: 5%;
+}
+.que .answer {
+	width: 83%; margin-bottom: 0.5em; float: left;
+}
+.que .submit {
+	clear: both; float: left; position: relative;
+}
+* html .que .submit {
+	float: none;
+}
+.multianswer .submit {
+	margin-top: 1em;
+}
+.que .c0 {
+	padding: 0.3em 0px 0.3em 0.3em; vertical-align: top;
+}
+.que .c1 {
+	padding: 0.3em 0px 0.3em 0.3em; vertical-align: top;
+}
+.que .feedback {
+	padding: 0px 0px 0.3em 0.3em; border: 1px solid currentColor; clear: both; margin-bottom: 0.5em;
+}
+.multichoice td.feedback {
+	width: auto; padding-top: 0.3em; vertical-align: top;
+}
+.essay .feedback {
+	
+}
+.multichoice .text {
+	width: auto;
+}
+.calculated .answer {
+	padding: 0.3em; width: auto;
+}
+.numerical .answer {
+	padding: 0.3em; width: auto;
+}
+.shortanswer .answer {
+	padding: 0.3em; width: auto;
+}
+.truefalse .answer span {
+	padding: 0.3em; width: 100%; clear: left; float: left;
+}
+.que .grading {
+	margin-top: 0.5em;
+}
+.que .comment {
+	margin-top: 0.5em;
+}
+.que .commentlink {
+	margin-top: 0.5em;
+}
+.que .generalfeedback {
+	margin-top: 0.5em;
+}
+.que .history {
+	margin-top: 0.5em;
+}
+.que .grade {
+	margin-top: 0.5em;
+}
+.importerror {
+	margin-top: 10px; border-bottom-color: rgb(85, 85, 85); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.logtable {
+	margin-right: auto; margin-left: auto;
+}
+.logtable td {
+	padding-right: 10px; padding-left: 10px;
+}
+.logtable th {
+	padding-right: 10px; padding-left: 10px;
+}
+.logtable th {
+	text-align: left;
+}
+#course-user .info {
+	margin: 10px; text-align: center;
+}
+.tabtree {
+	position: relative;
+}
+.tabrow0 {
+	list-style: none; margin: 10px 0px 0px; padding: 0px 0px 1.75em; width: 100%; text-align: center; line-height: 1.8em; font-size: 84%;
+}
+.tabrow0 li {
+	margin: 0px -4px 0px 0px; padding: 0px; display: inline;
+}
+.tabrow0 a span {
+	background: url("pix/tab/right.gif") no-repeat right top; padding: 10px 14px 0.35em 0px;
+}
+.tabrow1 li a span {
+	
+}
+.tabrow0 a {
+	background: url("pix/tab/left.gif") no-repeat left top; margin: 0px -1px 0px 0px; padding: 10px 0px 0.35em 13px; text-decoration: none;
+}
+.tabrow0 a:hover {
+	background-image: url("pix/tab/left_hover.gif");
+}
+.tabrow0 .here a:hover {
+	background-image: url("pix/tab/left.gif");
+}
+.tabrow0 a:hover span {
+	background-image: url("pix/tab/right_hover.gif");
+}
+.tabrow0 .here a:hover span {
+	background-image: url("pix/tab/right.gif");
+}
+.tabrow0 .here a {
+	color: rgb(68, 68, 68);
+}
+.tabrow0 .here a:link {
+	position: relative; z-index: 102;
+}
+.tabrow0 .here a:visited {
+	position: relative; z-index: 102;
+}
+.tabrow0 .here a.nolink {
+	position: relative; z-index: 102;
+}
+.tabrow0 .empty {
+	padding: 0px; height: 1px; overflow: hidden;
+}
+.tabrow0 div {
+	background: url("pix/tab/tabrow1.gif") repeat-x left; list-style: none; margin: 0px; padding: 0.25em 0px; left: 0px; top: 1.95em; width: 100%; line-height: normal; font-size: 90%; border-top-color: rgb(170, 170, 170); border-top-width: 1px; border-top-style: solid; position: absolute;
+}
+.tabrow0 ul {
+	background: url("pix/tab/tabrow1.gif") repeat-x left; list-style: none; margin: 0px; padding: 0.25em 0px; left: 0px; top: 1.95em; width: 100%; line-height: normal; font-size: 90%; border-top-color: rgb(170, 170, 170); border-top-width: 1px; border-top-style: solid; position: absolute;
+}
+.tabrow0 ul li {
+	margin-top: 1px; display: inline; background-image: none;
+}
+.tabrow0 ul a {
+	margin: 0px; padding: 0px 1em; border: 0px currentColor; color: rgb(0, 0, 204); background-image: none;
+}
+.tabrow0 ul a span {
+	padding: 0px; background-image: none;
+}
+.tabrow0 ul .last span {
+	background-image: none !important;
+}
+.tabrow0 ul li a:hover {
+	background-image: none !important;
+}
+.tabrow0 ul li a:hover span {
+	background-image: none !important;
+}
+.tabrow0 ul .here a:hover {
+	background-image: none !important;
+}
+.tabrow0 ul .here a:hover span {
+	background-image: none !important;
+}
+.tabrow0 ul div {
+	display: none;
+}
+ul.tabrow1 li a {
+	color: rgb(0, 0, 204); font-size: 110%;
+}
+ul.tabrow1 li a:link {
+	color: rgb(0, 0, 204); font-size: 110%;
+}
+ul.tabrow1 li a:visited {
+	color: rgb(0, 0, 204); font-size: 110%;
+}
+ul.tabrow1 li.selected.here a {
+	color: rgb(68, 68, 68);
+}
+h2.tag-heading {
+	padding: 5px; width: 95%; text-align: center; margin-right: auto; margin-left: auto; display: block;
+}
+div#tag-description {
+	padding: 5px; width: 95%; margin-right: auto; margin-left: auto; display: block;
+}
+div#tag-blogs {
+	padding: 5px; width: 95%; margin-right: auto; margin-left: auto; display: block;
+}
+body#tag-index .moreblogs {
+	text-align: center;
+}
+div#tag-management-box {
+	text-align: center; line-height: 20px; font-size: 12px; margin-bottom: 10px; display: block;
+}
+div#tag-user-table {
+	padding: 3px; width: 95%; clear: both; margin-right: auto; margin-left: auto; display: block;
+}
+body.tag .managelink {
+	padding: 10px; text-align: right;
+}
+div#tag-user-table::after {
+	height: 0px; overflow: hidden; clear: both; display: block; visibility: hidden; content: ".";
+}
+div.user-box {
+	margin: 8px; width: 115px; height: 160px; text-align: center; clear: none; float: left; display: block;
+}
+img.user-image {
+	border: 0px currentColor; width: 100px; height: 100px;
+}
+div#small-tag-cloud-box {
+	margin: 0px auto; width: 300px;
+}
+div#big-tag-cloud-box {
+	margin: 0px auto; width: 600px; float: none; display: block;
+}
+ul#tag-cloud-list {
+	list-style: none; margin: 0px; padding: 5px;
+}
+ul#tag-cloud-list li {
+	margin: 0px; display: inline;
+}
+div#tag-search-box {
+	margin: 10px auto; text-align: center;
+}
+div#tag-search-results-container {
+	padding: 0px; width: 100%;
+}
+ul#tag-search-results {
+	list-style: none; margin: 15px 20% 0px; padding: 0px; width: 60%; float: left; display: block;
+}
+ul#tag-search-results li {
+	width: 30%; text-align: left; line-height: 20px; padding-right: 1%; padding-left: 1%; float: left;
+}
+div#tags-management-links {
+	text-align: right; font-size: 12px; display: block;
+}
+span.flagged-tag {
+	color: rgb(255, 0, 0);
+}
+span.flagged-tag a {
+	color: rgb(255, 0, 0);
+}
+table#tag-management-list {
+	text-align: left; margin-right: auto; margin-left: auto;
+}
+table#tag-management-list tr td {
+	padding-right: 4px; padding-left: 4px;
+}
+.tag-management-form {
+	text-align: center;
+}
+#relatedtags-autocomplete-container {
+	width: 100%; margin-right: auto; margin-left: auto; min-height: 4.6em;
+}
+#relatedtags-autocomplete {
+	width: 60%; margin-right: auto; margin-left: auto; display: block; position: relative;
+}
+#relatedtags-autocomplete .yui-ac-content {
+	background: rgb(255, 255, 255); border: 1px solid rgb(64, 64, 64); left: 20%; width: 420px; overflow: hidden; position: absolute; z-index: 9050;
+}
+#relatedtags-autocomplete .ysearchquery {
+	right: 10px; color: rgb(128, 128, 128); position: absolute; z-index: 10;
+}
+#relatedtags-autocomplete .yui-ac-shadow {
+	background: rgb(160, 160, 160); margin: 0.3em; width: 100%; position: absolute; z-index: 9049;
+}
+#relatedtags-autocomplete ul {
+	margin: 0px; padding: 0px; width: 100%; list-style-type: none;
+}
+#relatedtags-autocomplete li {
+	padding: 0px 5px; white-space: nowrap; cursor: default;
+}
+#relatedtags-autocomplete li.yui-ac-highlight {
+	background: rgb(255, 255, 204);
+}
+.userinfobox {
+	border-width: 1px; border-style: solid; margin-bottom: 5px; border-collapse: separate;
+}
+.userinfobox .left {
+	padding: 10px; width: 100px; vertical-align: top;
+}
+.userinfobox .side {
+	padding: 10px; width: 100px; vertical-align: top;
+}
+.userinfobox .userpicture {
+	width: 100px; height: 100px;
+}
+.userinfobox .content {
+	padding: 10px; vertical-align: top;
+}
+.userinfobox .links {
+	padding: 5px; width: 100px; vertical-align: bottom;
+}
+.userinfobox .list td {
+	padding: 3px;
+}
+.userinfobox .username {
+	padding-bottom: 20px;
+}
+.userinfobox td.label {
+	text-align: right; vertical-align: top; white-space: nowrap;
+}
+table.userinfobox {
+	width: 80%; margin-right: 10%; margin-left: 10%;
+}
+table.groupinfobox {
+	border-width: 1px; border-style: solid; width: 60%; margin-right: 20%; margin-bottom: 20px; margin-left: 20%;
+}
+.groupinfobox .left {
+	padding: 10px; width: 100px; vertical-align: top;
+}
+body#user-index h2 {
+	text-align: center;
+}
+#user-view .buttons {
+	text-align: center;
+}
+#user-index .buttons {
+	text-align: center;
+}
+#user-view .buttons form {
+	display: inline;
+}
+#user-view .buttons form div {
+	display: inline;
+}
+body#user-index #longtimenosee {
+	text-align: center;
+}
+body#user-index #showall {
+	text-align: center;
+}
+body#user-index #showall {
+	margin: 10px 0px;
+}
+body#user-index table#participants {
+	margin: auto; width: 80%;
+}
+body#tag-manage table#tag-management-list {
+	margin: auto; width: 80%;
+}
+body#tag-manage table#tag-management-list td {
+	padding: 4px; text-align: left; vertical-align: middle;
+}
+body#tag-manage table#tag-management-list th {
+	padding: 4px; text-align: left; vertical-align: middle;
+}
+body#user-index table#participants td {
+	padding: 4px; text-align: left; vertical-align: middle;
+}
+body#user-index table#participants th {
+	padding: 4px; text-align: left; vertical-align: middle;
+}
+body#user-index table.controls {
+	width: 100%;
+}
+body#user-index table.controls tr {
+	vertical-align: top;
+}
+body#user-index table.controls td.right {
+	padding: 4px;
+}
+body#user-index table.controls td.left {
+	padding: 4px;
+}
+body#user-index table.controls .right {
+	text-align: right;
+}
+body#course-participation h2 {
+	text-align: center;
+}
+body#course-participation #showall {
+	margin: 10px 0px; text-align: center;
+}
+body#user-index .rolesform {
+	text-align: center;
+}
+#user-policy .noticebox {
+	width: 80%; height: 250px; text-align: center; margin-right: auto; margin-bottom: 10px; margin-left: auto;
+}
+#user-policy #policyframe {
+	width: 100%; height: 100%;
+}
+.iplookup #map {
+	margin: auto;
+}
+.iplookup #note {
+	text-align: center;
+}
+.userpicture {
+	width: 35px; height: 35px; vertical-align: top;
+}
+.picture user {
+	width: 35px; height: 35px; vertical-align: top;
+}
+.picture teacher {
+	width: 35px; height: 35px; vertical-align: top;
+}
+.modform {
+	text-align: center;
+}
+#wordcount {
+	text-align: right;
+}
+.nextchatsession {
+	text-align: center;
+}
+#mod-chat-gui_header_js-jsupdate {
+	margin: 10px;
+}
+#mod-chat-gui_header_js-jsupdate .chat-event {
+	padding: 0px; width: 100%; margin-top: 7px;
+}
+#mod-chat-gui_header_js-jsupdate .chat-message {
+	padding: 0px; width: 100%; margin-top: 7px;
+}
+#mod-chat-view #chatcurrentusers .chatuserdetails {
+	vertical-align: middle;
+}
+#mod-chat-view #enterlink {
+	width: 50%; text-align: center; margin-right: auto; margin-left: auto;
+}
+.chat-event .picture {
+	width: 40px; vertical-align: top;
+}
+.chat-message .picture {
+	width: 40px; vertical-align: top;
+}
+.chat-event .text {
+	text-align: left;
+}
+.chat-message .text {
+	text-align: left;
+}
+#mod-chat-gui_basic #participants ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+#mod-chat-gui_basic #participants ul li {
+	margin-right: 10px; display: inline;
+}
+#mod-chat-gui_basic #participants ul li .userinfo {
+	display: inline;
+}
+#mod-chat-gui_basic #messages dl {
+	margin: 1px; padding: 0px;
+}
+#mod-chat-gui_basic #messages dd {
+	padding: 0px; margin-right: 5px; margin-left: 0px; display: inline;
+}
+#mod-chat-gui_basic #messages dt {
+	padding: 0px; margin-right: 5px; margin-left: 0px; display: inline;
+}
+.button {
+	text-align: center;
+}
+.attemptcell {
+	width: 5px; white-space: nowrap;
+}
+.anonymous {
+	margin-right: auto; margin-left: auto;
+}
+.names {
+	margin-right: auto; margin-left: auto;
+}
+.downloadreport {
+	border: 0px currentColor; margin-right: auto; margin-left: auto;
+}
+.choiceresponse {
+	width: 100%;
+}
+.choiceresponse .picture {
+	width: 10px; white-space: nowrap;
+}
+.choiceresponse .fullname {
+	width: 100%; white-space: nowrap;
+}
+.data.results {
+	vertical-align: top; white-space: nowrap;
+}
+.fieldadd {
+	text-align: center;
+}
+.sortdefault {
+	text-align: center;
+}
+.defaulttemplate {
+	text-align: center;
+}
+.datapreferences {
+	text-align: center;
+}
+table.presets {
+	margin-right: auto; margin-left: auto;
+}
+#mod-forum-view .forummode {
+	text-align: center;
+}
+.forumheaderlist {
+	border-width: 1px; border-style: solid; border-collapse: separate;
+}
+.forumpost {
+	border-width: 1px; border-style: solid; border-collapse: separate;
+}
+.forumpost {
+	margin-top: 15px;
+}
+.forumpost .topic {
+	border-width: 0px 0px 1px; border-style: solid; padding: 4px;
+}
+.forumpost .commands {
+	text-align: right; padding-top: 0.5em; clear: both;
+}
+.forumpost .ratings {
+	text-align: right; padding-top: 1em;
+}
+.forumpost .attachments {
+	padding: 7px; text-align: right;
+}
+.forumpost .content {
+	padding: 4px;
+}
+.forumpost .footer {
+	text-align: right; padding-top: 0.5em;
+}
+.forumpost .link {
+	text-align: right; padding-top: 0.5em;
+}
+.forumpost .left {
+	padding: 4px; width: 35px; text-align: center; vertical-align: top;
+}
+.mod-forum .indent {
+	margin-left: 30px;
+}
+body#user-view .forumpost {
+	width: 100%;
+}
+.course .forumpost {
+	width: 100%;
+}
+body#mod-forum-search .c0 {
+	text-align: right;
+}
+body#mod-forum-search .introcontent {
+	padding: 15px;
+}
+.forumolddiscuss {
+	text-align: right;
+}
+.forumheaderlist {
+	width: 100%;
+}
+.forumheaderlist td {
+	border-width: 1px 0px 0px 1px; border-style: solid;
+}
+.forumheaderlist .replies {
+	text-align: center; white-space: nowrap;
+}
+.forumheaderlist .picture {
+	width: 35px;
+}
+.forumheaderlist .discussion .starter {
+	vertical-align: middle;
+}
+.forumheaderlist .lastpost {
+	text-align: right; white-space: nowrap;
+}
+.forumheaderlist .discussion .author {
+	white-space: nowrap;
+}
+.forumolddiscuss {
+	text-align: right;
+}
+.forumaddnew {
+	text-align: center;
+}
+.forumnodiscuss {
+	text-align: center;
+}
+.noticeboxcontent {
+	text-align: center;
+}
+#mod-forum-view .forumaddnew {
+	margin-bottom: 20px;
+}
+#mod-forum-view .forumcontrol .groupmenu {
+	text-align: left; float: left; white-space: nowrap;
+}
+#mod-forum-view .groupmenu {
+	text-align: left; float: left; white-space: nowrap;
+}
+#mod-forum-view .forumcontrol .subscription {
+	text-align: right; float: right; white-space: nowrap;
+}
+#mod-forum-view .subscription {
+	text-align: right; float: right; white-space: nowrap;
+}
+#mod-forum-index .subscription {
+	text-align: right; float: right; white-space: nowrap;
+}
+#mod-forum-view .unread {
+	padding-right: 3px; padding-left: 3px;
+}
+#mod-forum-discuss .unread.forumpost .content {
+	border-width: 2px; border-style: solid;
+}
+#mod-forum-discuss .ratingsubmit {
+	padding: 10px; text-align: center;
+}
+#mod-forum-index .unread img {
+	margin-left: 5px;
+}
+#mod-forum-view .unread img {
+	margin-left: 5px;
+}
+#mod-forum-discuss .discussioncontrols td {
+	width: 33%; text-align: center;
+}
+#email .unsubscribelink {
+	border-width: 0px 1px 0px 0px; border-style: solid; text-align: center; margin-top: 20px;
+}
+#mod-forum-view .subscription {
+	margin: 5px 0px;
+}
+.glossarypost .commands {
+	width: 200px; white-space: nowrap;
+}
+#mod-glossary-comments .glossarypost {
+	margin-top: 15px;
+}
+#mod-glossary-comment .glossarypost {
+	margin-top: 15px;
+}
+.entryboxheader {
+	border-width: 1px 1px 0px; border-style: solid;
+}
+.entrybox {
+	border-width: 0px 1px 1px; border-style: solid; width: 100%;
+}
+.entrybox hr {
+	border-right-color: currentColor; border-left-color: currentColor; border-right-width: medium; border-left-width: medium; border-right-style: none; border-left-style: none;
+}
+.glossarypost {
+	border-width: 1px; border-style: solid; width: 95%; text-align: left; margin-right: auto; margin-bottom: 5px; margin-left: auto; border-collapse: separate;
+}
+.entrylist {
+	border-width: 0px;
+}
+.entrylowersection {
+	padding-top: 10px;
+}
+.entrylowersection table {
+	width: 100%;
+}
+.entrylowersection .aliases {
+	text-align: center;
+}
+.entrylowersection .icons {
+	text-align: right; padding-right: 5px;
+}
+.entrylowersection .ratings {
+	text-align: right; padding-right: 5px;
+}
+.entrylowersection .ratings {
+	padding-bottom: 2px;
+}
+.glossarycategoryheader {
+	width: 95%; margin-right: auto; margin-left: auto;
+}
+.glossaryformatheader {
+	width: 90%;
+}
+.glossarypost .entry {
+	padding: 3px;
+}
+.glossarypost .picture {
+	width: 35px;
+}
+.glossarycomment {
+	border-width: 1px; border-style: solid; text-align: left; margin-bottom: 5px; border-collapse: separate;
+}
+.glossarycomment .entry {
+	padding: 3px;
+}
+.glossarycomment .picture {
+	width: 35px;
+}
+.glossarycomment .icons {
+	text-align: right;
+}
+.glossarydisplay {
+	width: 90%; text-align: center; margin-right: auto; margin-left: auto;
+}
+.glossarydisplay .tabs {
+	width: 100%;
+}
+.glossarydisplay .separator {
+	width: 4px;
+}
+.glossarydisplay .tabs .selected {
+	
+}
+.glossarydisplay .tabs .inactive {
+	
+}
+.glossarydisplay .tabs .general {
+	
+}
+.glossaryimportexport {
+	text-align: center; margin-right: auto; margin-left: auto;
+}
+.glossarypopup {
+	width: 95%;
+}
+.glossaryapproval {
+	width: 100%;
+}
+.mod-glossary .glossarydisplay .tabs {
+	margin-bottom: 0px;
+}
+.mod-glossary .glossarydisplay .tabs .side {
+	border-width: 0px; width: auto;
+}
+.glossaryexplain {
+	text-align: center;
+}
+.glossaryaddentry {
+	text-align: center;
+}
+.mod-glossary .tabrow0 {
+	padding-bottom: 5px;
+}
+#mod-glossary-view .glossarycontrol {
+	margin: 5px 0px; text-align: right; float: right; white-space: nowrap;
+}
+#mod-journal-view .lastedit {
+	margin: 5px; text-align: center;
+}
+#mod-journal-view .editend {
+	margin: 5px; text-align: center;
+}
+#mod-journal-view .feedbackbox {
+	width: 75%; border-collapse: separate;
+}
+#mod-journal-view .entrycontent {
+	padding: 3px;
+}
+#mod-journal-view .picture {
+	width: 35px;
+}
+#mod-journal-view .grade {
+	text-align: right;
+}
+#mod-journal-view .info {
+	text-align: right; margin-bottom: 5px;
+}
+#mod-lesson-lesson #page .addform {
+	text-align: center;
+}
+#mod-lesson-edit #page .label {
+	font-weight: bold;
+}
+#mod-lesson-edit #page .labelcorrect {
+	font-weight: bold; text-decoration: underline;
+}
+.lessonmediafilecontrol {
+	text-align: center; margin-right: auto; margin-left: auto;
+}
+#mod-lesson-view #content .invisiblefieldset {
+	text-align: left; display: block;
+}
+#mod-quiz-view .quizinfo {
+	text-align: center;
+}
+#mod-quiz-view #page .quizgradefeedback {
+	text-align: center;
+}
+#mod-quiz-view #page .quizattempt {
+	text-align: center;
+}
+#mod-quiz-view #page .quizattemptsummary td p {
+	margin-top: 0px;
+}
+#mod-quiz-view .generalbox#feedback {
+	width: 70%; padding-bottom: 15px; margin-right: auto; margin-left: auto;
+}
+#mod-quiz-view .generalbox#feedback h2 {
+	margin: 0px;
+}
+body#mod-quiz-view .generalbox#feedback .overriddennotice {
+	text-align: center; font-size: 0.7em;
+}
+#mod-quiz-view .generalbox#feedback h3 {
+	text-align: left;
+}
+.generalbox#passwordbox {
+	width: 70%; margin-right: auto; margin-left: auto;
+}
+#passwordform {
+	margin: 1em 0px;
+}
+#mod-quiz-attempt #page {
+	text-align: center;
+}
+#mod-quiz-attempt .pagingbar {
+	margin: 1.5em auto;
+}
+#mod-quiz-attempt #page {
+	text-align: center;
+}
+#mod-quiz-attempt #timer .generalbox {
+	width: 150px;
+}
+.securewindow#mod-quiz-attempt .que {
+	margin-right: 155px; margin-left: 155px;
+}
+#mod-quiz-attempt #timer {
+	left: 10px; position: absolute;
+}
+body#question-preview .quemodname {
+	text-align: center;
+}
+body#question-preview .controls {
+	text-align: center;
+}
+body#question-preview .quemodname {
+	text-align: center;
+}
+body#question-preview .controls {
+	text-align: center;
+}
+#mod-quiz-attempt #page .controls {
+	margin: 8px auto; text-align: center;
+}
+#mod-quiz-review #page .controls {
+	margin: 8px auto; text-align: center;
+}
+#mod-quiz-review .pagingbar {
+	margin: 1.5em auto;
+}
+#mod-quiz-review .pagingbar {
+	margin: 1.5em auto;
+}
+table.quizreviewsummary {
+	width: 100%; margin-bottom: 1.8em;
+}
+table.quizreviewsummary tr {
+	
+}
+table.quizreviewsummary th.cell {
+	padding: 1px 0.5em 1px 1em; width: 10em; text-align: right; font-weight: bold;
+}
+table.quizreviewsummary td.cell {
+	padding: 1px 1em 1px 0.5em;
+}
+#mod-quiz-mod #reviewoptionshdr .fitem {
+	width: 30%; clear: none; margin-left: 10px; float: left;
+}
+#mod-quiz-mod #reviewoptionshdr .fitemtitle {
+	width: 100%; height: 2.5em; text-align: left; font-weight: bold; margin-left: 0px;
+}
+#mod-quiz-mod #reviewoptionshdr fieldset.fgroup {
+	width: 100%; text-align: left; margin-left: 0px;
+}
+#mod-quiz-mod #reviewoptionshdr fieldset.fgroup span {
+	clear: left; float: left;
+}
+#mod-quiz-edit #page .controls {
+	text-align: center; clear: left;
+}
+#mod-quiz-edit #page .quizattemptcounts {
+	text-align: center; clear: left;
+}
+#mod-quiz-edit .quizquestions h2 {
+	margin-top: 0px;
+}
+#mod-quiz-edit #showbreaks {
+	margin-top: 0.7em;
+}
+.quizquestionlistcontrols {
+	text-align: center;
+}
+#mod-quiz-report table#attempts {
+	margin: auto; width: 80%;
+}
+#mod-quiz-report table#commands {
+	margin: auto; width: 80%;
+}
+#mod-quiz-report table#itemanalysis {
+	margin: auto; width: 80%;
+}
+#mod-quiz-report table#attempts {
+	clear: both;
+}
+#mod-quiz-report h2.main {
+	clear: both;
+}
+#mod-quiz-report table#attempts {
+	margin: 20px auto;
+}
+#mod-quiz-report table#attempts .header {
+	padding: 4px;
+}
+#mod-quiz-report table#attempts .cell {
+	padding: 4px;
+}
+#mod-quiz-report table#attempts .header .commands {
+	display: inline;
+}
+#mod-quiz-report table#attempts .picture {
+	width: 40px;
+}
+#mod-quiz-report table#attempts td {
+	vertical-align: middle; border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+#mod-quiz-report table#attempts .header {
+	text-align: left;
+}
+#mod-quiz-report table#attempts .picture {
+	text-align: center !important;
+}
+#mod-quiz-report .controls {
+	text-align: center;
+}
+#mod-quiz-report table#itemanalysis {
+	margin: 20px auto;
+}
+#mod-quiz-report table#itemanalysis .header {
+	padding: 4px;
+}
+#mod-quiz-report table#itemanalysis .cell {
+	padding: 4px;
+}
+#mod-quiz-report table#itemanalysis .header .commands {
+	display: inline;
+}
+#mod-quiz-report table#itemanalysis td {
+	border-width: 1px; border-style: solid;
+}
+#mod-quiz-report table#itemanalysis .header {
+	text-align: left;
+}
+#mod-quiz-report table#itemanalysis .numcol {
+	text-align: center; vertical-align: middle !important;
+}
+#mod-quiz-report table#itemanalysis .uncorrect {
+	color: red;
+}
+#mod-quiz-report table#itemanalysis .correct {
+	color: blue; font-weight: bold;
+}
+#mod-quiz-report table#itemanalysis .partialcorrect {
+	color: green !important;
+}
+#mod-quiz-report table#itemanalysis .qname {
+	color: green !important;
+}
+#mod-quiz-grading table#grading {
+	margin: auto; width: 80%;
+}
+#mod-quiz-grading table#grading {
+	margin: 20px auto;
+}
+#mod-quiz-grading table#grading .header {
+	padding: 4px;
+}
+#mod-quiz-grading table#grading .cell {
+	padding: 4px;
+}
+#mod-quiz-grading table#grading .header .commands {
+	display: inline;
+}
+#mod-quiz-grading table#grading .picture {
+	width: 40px;
+}
+#mod-quiz-grading table#grading td {
+	vertical-align: bottom; border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.mod-quiz .gradingdetails {
+	font-size: small;
+}
+.quizattemptcounts {
+	margin: 6px 0px; text-align: center; clear: left;
+}
+#mod-resource-view .resourcecontent {
+	margin: 20px; text-align: center;
+}
+#mod-resource-view .resourcepdf {
+	width: 100%; text-align: center; padding-top: 15px;
+}
+.resourcecontent object {
+	width: 600px; height: 480px;
+}
+.resourcepdf object {
+	width: 800px; height: 800px;
+}
+.mod-resource .modified {
+	text-align: center;
+}
+.mod-resource .popupnotice {
+	margin: 40px; text-align: center;
+}
+.ims-nav-bar {
+	margin-top: 0.2em; position: relative;
+}
+.ims-nav-button a {
+	padding: 0.2em 1em;
+}
+.ims-nav-dimmed {
+	padding: 0.2em 1em;
+}
+#ims-containerdiv {
+	margin-top: 0.2em;
+}
+#ims-menudiv {
+	width: 250px; overflow: auto; padding-top: 1em; padding-right: 0.2em; position: absolute;
+}
+#ims-menudiv ol {
+	margin: 0em; padding-left: 1em; list-style-type: none;
+}
+#ims-contentframe {
+	border: 1px solid currentColor; left: 260px; width: 640px; height: 480px; position: absolute;
+}
+#ims-contentframe-no-nav {
+	border: 1px solid currentColor; width: 640px; height: 480px; position: absolute;
+}
+#mod-resource-view div#footer {
+	margin-top: 5px;
+}
+.resultgraph {
+	border: 1px solid currentColor; text-align: center;
+}
+.reportsummary {
+	text-align: center;
+}
+.studentreport {
+	text-align: center;
+}
+.reportbuttons {
+	text-align: center;
+}
+.centerpara {
+	text-align: center;
+}
+.fullnamecell {
+	width: 10%; vertical-align: top; white-space: nowrap;
+}
+.questiontext {
+	font-size: 1em;
+}
+.smalltext {
+	font-size: 0.75em;
+}
+#surveyform th {
+	text-align: left; font-weight: normal;
+}
+#surveyform th.hresponse {
+	width: 9%; text-align: center;
+}
+.rblock label {
+	text-align: center; display: block;
+}
+.foundthat {
+	white-space: nowrap;
+}
+.preferthat {
+	white-space: nowrap;
+}
+.qnummiddlecell {
+	vertical-align: middle;
+}
+.optioncell {
+	width: 50%; vertical-align: top;
+}
+.buttoncell {
+	width: 5%;
+}
+.questioncell {
+	width: 50%; vertical-align: top;
+}
+.whitecell {
+	background-color: white;
+}
+.sideblockheading {
+	text-align: right;
+}
+.howtowiki {
+	text-align: right;
+}
+.wikisearchform {
+	text-align: center;
+}
+.wikilinksblock {
+	text-align: center;
+}
+wikiadminactions {
+	text-align: center;
+}
+.wikilinkright {
+	text-align: right; padding-bottom: 0.5em;
+}
+.wikiexportbox {
+	margin-right: auto; margin-left: auto;
+}
+.redfont {
+	color: red;
+}
+.workshopuploadform {
+	text-align: center;
+}
+.workshopkey {
+	text-align: center;
+}
+#help hr {
+	background: rgb(204, 204, 204); border: currentColor; height: 1px;
+}
+#help .example1 {
+	color: rgb(170, 0, 0);
+}
+#help .success {
+	color: rgb(0, 136, 0);
+}
+#help .center {
+	text-align: center;
+}
+#help .moreinfo {
+	text-align: right;
+}
+#help .indent {
+	margin-left: 40px;
+}
+#help .indent-big {
+	margin-right: 160px; margin-left: 160px;
+}
+#help pre {
+	background: rgb(238, 238, 238); padding: 3px; border: 1px dashed rgb(221, 221, 221);
+}
+#help code {
+	background: rgb(238, 238, 238); padding: 3px; border: 1px dashed rgb(221, 221, 221);
+}
+#mod-assignment-submissions .feedback .content {
+	padding: 10px; border: 1px solid rgb(221, 221, 221);
+}
+#mod-assignment-submissions .feedback .topic {
+	padding: 10px; border: 1px solid rgb(221, 221, 221);
+}
+#mod-assignment-submissions .feedback .picture {
+	padding: 10px; border: 1px solid rgb(221, 221, 221);
+}
+#mod-assignment-submissions form#options div {
+	text-align: right; margin-right: 20px; margin-left: auto;
+}
+.mod-assignment .feedback .files {
+	padding: 5px; float: right; background-color: rgb(239, 239, 239);
+}
+.mod-assignment .feedback .grade {
+	float: right;
+}
+.mod-assignment .feedback .outcome {
+	float: right;
+}
+.mod-assignment .feedback .finalgrade {
+	float: right;
+}
+.mod-assignment .feedback .disabledfeedback {
+	width: 500px; height: 250px;
+}
+.mod-assignment .feedback .from {
+	float: left;
+}
+.mod-assignment .feedback .time {
+	font-size: 0.8em;
+}
+.mod-assignment .late {
+	color: red;
+}
+.mod-assignment .files img {
+	margin-right: 4px;
+}
+.mod-assignment .files a {
+	white-space: nowrap;
+}
+#mod-assignment-submissions .generaltable .r1 {
+	background-color: rgb(255, 255, 255);
+}
+#mod-assignment-submissions .header .commands {
+	display: inline;
+}
+#mod-assignment-submissions .s0 {
+	background: rgb(255, 217, 145);
+}
+#mod-assignment-submissions table.submissions td {
+	border: 1px solid rgb(221, 221, 221); padding-right: 5px; padding-left: 5px; vertical-align: middle;
+}
+#mod-assignment-submissions table.submissions th {
+	border: 1px solid rgb(221, 221, 221); padding-right: 5px; padding-left: 5px; vertical-align: middle;
+}
+#mod-assignment-submissions .submissions .grade {
+	text-align: right; font-weight: bold;
+}
+#mod-assignment-submissions .picture {
+	width: 35px;
+}
+#mod-assignment-submissions .fullname {
+	text-align: left;
+}
+#mod-assignment-submissions .timemodified {
+	text-align: left; font-size: 0.9em;
+}
+#mod-assignment-submissions .timemarked {
+	text-align: left; font-size: 0.9em;
+}
+#mod-assignment-submissions .status {
+	text-align: center;
+}
+#mod-assignment-submissions .submissions .outcome {
+	text-align: right;
+}
+#mod-assignment-submissions .submissions .finalgrade {
+	text-align: right;
+}
+#mod-assignment-view #online .singlebutton {
+	text-align: center;
+}
+#mod-assignment-view #dates {
+	font-size: 0.8em; margin-top: 30px; margin-bottom: 30px;
+}
+#mod-assignment-view #dates .c0 {
+	text-align: right; font-weight: bold;
+}
+#mod-assignment-view .feedback {
+	border: 1px solid rgb(221, 221, 221); width: 80%; margin-top: 15px; margin-right: 10%; margin-left: 10%;
+}
+#mod-assignment-view .feedback .topic {
+	border-width: 0px 0px 1px; border-style: solid; border-color: rgb(221, 221, 221); padding: 4px;
+}
+#mod-assignment-view .feedback .fullname {
+	font-weight: bold;
+}
+#mod-assignment-view .feedback .date {
+	font-size: 0.8em;
+}
+#mod-assignment-view .feedback .content {
+	padding: 4px;
+}
+#mod-assignment-view .feedback .grade {
+	text-align: right; font-weight: bold;
+}
+#mod-assignment-view .feedback .left {
+	padding: 4px; width: 35px; text-align: center; vertical-align: top;
+}
+#mod-assignment-submissions .qgprefs #optiontable {
+	text-align: right; margin-left: auto;
+}
+#mod-assignment-submissions .fgcontrols {
+	text-align: center; margin-top: 1em;
+}
+#mod-assignment-submissions .fgcontrols .fastgbutton {
+	margin-top: 0.5em;
+}
+.mod-choice .results {
+	border-collapse: separate;
+}
+.mod-choice .results .data {
+	border: 1px solid rgb(153, 153, 153);
+}
+#mod-data-view #sortsearch .c0 {
+	text-align: right;
+}
+#mod-data-view .approve img.icon {
+	width: 34px; height: 34px;
+}
+#mod-data-preset .presetmapping {
+	text-align: center;
+}
+#mod-data-preset .presetmapping table {
+	text-align: left; margin-right: auto; margin-left: auto;
+}
+#mod-data-preset .overwritesettings {
+	margin-bottom: 1em;
+}
+.mod-data-field .c0 {
+	text-align: right;
+}
+.mod-data-field .fieldadd {
+	margin-top: 1em; margin-bottom: 1em;
+}
+.mod-data-field .sortdefault {
+	margin-top: 1em; margin-bottom: 1em;
+}
+.mod-data-field .fieldadd select {
+	margin-left: 1em;
+}
+.mod-data-field .sortdefault select {
+	margin-left: 1em;
+}
+.mod-data-field .fieldname {
+	width: 300px;
+}
+.mod-data-field .fielddescription {
+	width: 300px;
+}
+.presetcontrols form {
+	display: inline;
+}
+.mod-lesson .contents {
+	text-align: left;
+}
+.mod-lesson #layout-table {
+	width: 100%;
+}
+.mod-lesson .edit_buttons form {
+	display: inline;
+}
+.mod-lesson .edit_buttons input {
+	display: inline;
+}
+.mod-lesson .clock .content {
+	text-align: center;
+}
+.mod-lesson .addlinks {
+	font-size: 0.8em;
+}
+.mod-lesson .userinfotable .cell {
+	vertical-align: middle;
+}
+.mod-lesson .userinfotable .userpicture {
+	vertical-align: middle;
+}
+.mod-lesson .fieldsetfix.invisiblefieldset {
+	display: block;
+}
+.mod-lesson .fieldsetfix.invisiblefieldset tr {
+	text-align: left;
+}
+#mod-lesson-view .password-form {
+	text-align: center; margin-top: 20px;
+}
+#mod-lesson-view .password-form .submitbutton {
+	display: inline;
+}
+#mod-lesson-essay .graded {
+	color: rgb(223, 4, 30);
+}
+#mod-lesson-essay .sent {
+	color: rgb(0, 102, 0);
+}
+#mod-lesson-essay .ungraded {
+	color: rgb(153, 153, 153);
+}
+#mod-lesson-essay .gradetable {
+	margin-bottom: 20px;
+}
+#mod-lesson-essay .buttons {
+	text-align: center;
+}
+.mod-lesson .response {
+	padding-top: 10px;
+}
+.mod-lesson .correct {
+	
+}
+.mod-lesson .incorrect {
+	
+}
+.mod-lesson .matches {
+	
+}
+.mod-lesson .slideshow {
+	padding: 15px; overflow: auto;
+}
+.mod-lesson .menu .content {
+	padding: 0px;
+}
+.mod-lesson .menu .menuwrapper {
+	overflow: auto; margin-bottom: 10px; vertical-align: top; max-height: 400px;
+}
+.mod-lesson .menu ul {
+	list-style: none; margin: 0px; padding: 5px 0px 0px 5px;
+}
+.mod-lesson .menu li {
+	padding-bottom: 5px;
+}
+.mod-lesson .leftmenu_selected_link {
+	
+}
+.mod-lesson .leftmenu_not_selected_link {
+	
+}
+.mod-lesson .skip {
+	left: -1000em; width: 20em; position: absolute;
+}
+.mod-lesson .lessonbutton a {
+	padding-right: 1em; padding-left: 1em;
+}
+.mod-lesson .lessonbutton a:link {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+.mod-lesson .lessonbutton a:visited {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+.mod-lesson .lessonbutton a:hover {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+.mod-lesson .lessonbutton a:link {
+	border-width: 1px 2px 2px 1px; border-style: solid; border-color: rgb(206, 206, 206) rgb(74, 74, 74) rgb(74, 74, 74) rgb(206, 206, 206);
+}
+.mod-lesson .lessonbutton a:visited {
+	border-width: 1px 2px 2px 1px; border-style: solid; border-color: rgb(206, 206, 206) rgb(74, 74, 74) rgb(74, 74, 74) rgb(206, 206, 206);
+}
+.mod-lesson .lessonbutton a:hover {
+	border-width: 2px 1px 1px 2px; border-style: solid; border-color: rgb(74, 74, 74) rgb(206, 206, 206) rgb(206, 206, 206) rgb(74, 74, 74);
+}
+.mod-lesson .horizontal.branchbuttoncontainer div {
+	display: inline;
+}
+.mod-lesson .horizontal.branchbuttoncontainer form {
+	display: inline;
+}
+.mod-lesson .vertical.branchbuttoncontainer .lessonbutton {
+	padding: 5px;
+}
+.mod-lesson .progress_bar {
+	padding: 20px;
+}
+.mod-lesson .progress_bar_table {
+	margin: 0px; padding: 0px; width: 80%;
+}
+.mod-lesson .progress_bar_completed {
+	margin: 0px; padding: 0px; background-color: green;
+}
+.mod-lesson .progress_bar_todo {
+	margin: 0px; padding: 0px; text-align: left; background-color: red;
+}
+.mod-lesson .progress_bar_token {
+	margin: 0px; padding: 0px; width: 5px; height: 20px; background-color: rgb(0, 0, 0);
+}
+#mod-lightboxgallery-view .generalbox {
+	overflow: auto;
+}
+#mod-lightboxgallery-search .generalbox {
+	overflow: auto;
+}
+#mod-lightboxgallery-view .thumb {
+	margin: 2px; padding: 3px; border: 1px solid rgb(204, 204, 204); text-align: center; float: left; position: relative; z-index: 5; background-color: rgb(255, 255, 255);
+}
+#mod-lightboxgallery-search .thumb {
+	margin: 2px; padding: 3px; border: 1px solid rgb(204, 204, 204); text-align: center; float: left; position: relative; z-index: 5; background-color: rgb(255, 255, 255);
+}
+#mod-lightboxgallery-view .thumb .image {
+	border: 1px solid rgb(204, 204, 204); width: 120px; height: 105px; margin-bottom: 2px; position: relative; z-index: 10; background-color: rgb(0, 0, 0);
+}
+#mod-lightboxgallery-search .thumb .image {
+	border: 1px solid rgb(204, 204, 204); width: 120px; height: 105px; margin-bottom: 2px; position: relative; z-index: 10; background-color: rgb(0, 0, 0);
+}
+#mod-lightboxgallery-view .thumb .overlay img {
+	border: 0px currentColor;
+}
+#mod-lightboxgallery-search .thumb .overlay img {
+	border: 0px currentColor;
+}
+#mod-lightboxgallery-view .lightbox-edit-select {
+	margin: 4px;
+}
+#mod-lightboxgallery-imageedit .generaltable img {
+	border: 1px solid rgb(221, 221, 221);
+}
+#mod-lightboxgallery-imageadd .generaltable img {
+	border: 1px solid rgb(221, 221, 221);
+}
+#mod-lightboxgallery-imageedit .menubar {
+	text-align: center; margin-top: 14px;
+}
+#mod-lightboxgallery-imageedit .tag-head {
+	margin: 3px 1px; padding: 2px 0px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; display: block; background-color: rgb(249, 250, 250);
+}
+#mod-lightboxgallery-imageedit .tag-exists {
+	color: rgb(170, 170, 170); text-decoration: line-through;
+}
+#mod-lightboxgallery-imageedit .tag-exists input {
+	display: none;
+}
+#mod-lightboxgallery-imageadd #messages {
+	margin: 0px 6px 0px 12px; padding: 0px;
+}
+#mod-lightboxgallery-search .generalbox {
+	margin-bottom: 10px;
+}
+.questionnaire_qbut {
+	padding-right: 0.5em;
+}
+#mod-questionnaire-questions div.qcontainer .fitemtitle {
+	display: none;
+}
+#mod-questionnaire-questions .mform div.qcontainer fieldset.felement {
+	width: 100%;
+}
+#mod-questionnaire-questions div.qcontainer div.qnums {
+	width: 10%; font-weight: bold; float: left; display: block;
+}
+#mod-questionnaire-questions div.qcontainer div.qicons {
+	width: 15%; float: left; display: block;
+}
+#mod-questionnaire-questions div.qcontainer div.qtype {
+	width: 19%; float: left; display: block;
+}
+#mod-questionnaire-questions div.qcontainer div.qreq {
+	width: 9%; float: left; display: block;
+}
+#mod-questionnaire-questions div.qcontainer div.qname {
+	width: 45%; float: left; display: block;
+}
+#mod-questionnaire-questions div.qcontainer div.qheader {
+	padding-bottom: 10px; font-weight: bold; margin-top: 20px; border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-width: 4px; border-bottom-width: 4px; border-top-style: double; border-bottom-style: double;
+}
+#mod-questionnaire-questions div.qcontainer div.fstatic {
+	width: 97%; margin-right: 1em; border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(255, 255, 255);
+}
+#mod-questionnaire-questions div.qcontainer div.qcontent {
+	margin-bottom: -1em;
+}
+div.qoptcontainer div.ftextarea {
+	margin: 0pt auto 10px; width: 600px; clear: both; float: none;
+}
+div.qoptcontainer div.ftextarea textarea.qopts {
+	width: 600px; height: 10em; margin-left: 1px;
+}
+#mod-questionnaire-report .nolink {
+	font-weight: bold; text-decoration: none;
+}
+#mod-questionnaire-myreport .nolink {
+	font-weight: bold; text-decoration: none;
+}
+.structlist {
+	font-size: small; list-style-type: none; white-space: nowrap;
+}
+.orgtitle {
+	font-size: small; font-weight: bold;
+}
+.mod-scorm .top {
+	vertical-align: top;
+}
+.mod-scorm .scorm-left {
+	text-align: left;
+}
+.mod-scorm .scorm-center {
+	text-align: center;
+}
+.mod-scorm .scorm-right {
+	text-align: right;
+}
+.mod-scorm .scoframe {
+	width: 100%; height: 100%; position: relative;
+}
+#mod-scorm-player #scormpage {
+	width: 100%; position: relative;
+}
+#mod-scorm-player #tochead {
+	top: 3px; height: 30px; text-align: center; position: relative;
+}
+#mod-scorm-player .toc {
+	width: 80%; margin-left: 20%;
+}
+#mod-scorm-player .no-toc {
+	width: 100%;
+}
+#mod-scorm-player #scormobject {
+	height: 400px;
+}
+#mod-scorm-player #scormtop {
+	width: 100%; height: 30px; position: relative;
+}
+#mod-scorm-player #scormbrowse {
+	left: 5px; top: 0px; position: absolute;
+}
+#mod-scorm-player #scormnav {
+	top: 3px; width: 100%; text-align: center; right: 5px; position: absolute;
+}
+#mod-scorm-view .structurehead {
+	text-align: center;
+}
+#mod-scorm-view .structurelist {
+	list-style-type: none; white-space: nowrap;
+}
+#mod-scorm-player #scormbox {
+	top: 0px; width: 74%; right: 0px; position: absolute;
+}
+#mod-scorm-player #tocbox {
+	left: 0px; width: 24%; font-size: 0.8em; position: relative;
+}
+#mod-scorm-player #tochead {
+	top: 3px; height: 30px; text-align: center; position: relative;
+}
+#toctree {
+	width: 100%; position: relative; -ms-overflow-x: auto; -ms-overflow-y: auto;
+}
+.structurelist {
+	list-style-type: none;
+}
+#mod-scorm-player .structurelist {
+	margin: 0px; padding: 0px; width: 96%; list-style-type: none; position: relative;
+}
+#mod-scorm-player .structurelist ul {
+	padding-left: 0.5em; margin-left: 0.5em;
+}
+#mod-scorm-view .structurelist {
+	list-style-type: none; white-space: nowrap;
+}
+a#mod-scorm-log-toggle {
+	font-size: 0.7em; font-weight: bold;
+}
+.workshop_feedbackbox {
+	border: 1px solid rgb(153, 153, 153); margin-top: 5px;
+}
+.workshop_feedbackbox .picture {
+	vertical-align: top;
+}
+.workshop_feedbackbox .author {
+	vertical-align: top; display: block;
+}
+.workshop_feedbackbox .time {
+	vertical-align: top; display: block;
+}
+.workshop_feedbackbox .content {
+	vertical-align: top;
+}
+.workshop_feedbackbox .comment {
+	display: block;
+}
+.workshop_feedbackbox .teachercomment {
+	font-weight: bold; display: block;
+}
+.block_blog_tags .s20 {
+	font-size: 1.5em; font-weight: bold;
+}
+.block_blog_tags .s19 {
+	font-size: 1.5em;
+}
+.block_blog_tags .s18 {
+	font-size: 1.4em; font-weight: bold;
+}
+.block_blog_tags .s17 {
+	font-size: 1.4em;
+}
+.block_blog_tags .s16 {
+	font-size: 1.3em; font-weight: bold;
+}
+.block_blog_tags .s15 {
+	font-size: 1.3em;
+}
+.block_blog_tags .s14 {
+	font-size: 1.2em; font-weight: bold;
+}
+.block_blog_tags .s13 {
+	font-size: 1.2em;
+}
+.block_blog_tags .s12 {
+	font-size: 1.1em; font-weight: bold;
+}
+.block_blog_tags .s11 {
+	font-size: 1.1em; font-weight: bold;
+}
+.block_blog_tags .s10 {
+	font-size: 1.1em;
+}
+.block_blog_tags .s9 {
+	font-size: 1.1em;
+}
+.block_blog_tags .s8 {
+	font-size: 1em; font-weight: bold;
+}
+.block_blog_tags .s7 {
+	font-size: 1em; font-weight: bold;
+}
+.block_blog_tags .s6 {
+	font-size: 1em;
+}
+.block_blog_tags .s5 {
+	font-size: 1em;
+}
+.block_blog_tags .s4 {
+	font-size: 0.9em; font-weight: bold;
+}
+.block_blog_tags .s3 {
+	font-size: 0.9em; font-weight: bold;
+}
+.block_blog_tags .s2 {
+	font-size: 0.9em;
+}
+.block_blog_tags .s1 {
+	font-size: 0.9em;
+}
+.block_calendar_month .cal_popup_caption {
+	font-size: 0.85em !important;
+}
+.block_calendar_month .cal_popup_fg div {
+	font-size: 0.85em !important;
+}
+.block_calendar_month .filters {
+	padding: 5px; font-size: 0.75em;
+}
+.block_calendar_month .filters table {
+	padding: 2px; border-collapse: separate; border-spacing: 2px;
+}
+.block_calendar_month .event_global {
+	border-width: 2px; border-style: solid;
+}
+.block_calendar_month .event_course {
+	border-width: 2px; border-style: solid;
+}
+.block_calendar_month .event_group {
+	border-width: 2px; border-style: solid;
+}
+.block_calendar_month .event_user {
+	border-width: 2px; border-style: solid;
+}
+.block_calendar_upcoming .event .date {
+	text-align: right;
+}
+.block_course_summary .content {
+	padding: 10px;
+}
+.block_course_summary .editbutton {
+	text-align: right;
+}
+.block_login .logintable {
+	text-align: center;
+}
+.block_login .loginform {
+	display: inline;
+}
+.block_login .loginform .fld input {
+	width: 5em;
+}
+.block_login .loginform label {
+	padding-right: 4px;
+}
+.block_login .loginform div {
+	margin: 0.3em 0.8em; text-align: right; display: block;
+}
+.block_login .loginform div.btn.c1 {
+	text-align: center;
+}
+.block_news_items .newlink {
+	text-align: center;
+}
+.block_quiz_results {
+	text-align: center;
+}
+.block_quiz_results table.grades .number {
+	width: 10%; text-align: right;
+}
+.block_quiz_results table.grades .grade {
+	width: 10%; text-align: right;
+}
+.block_quiz_results table.grades {
+	width: 100%; text-align: left;
+}
+.block_quiz_results table.grades caption {
+	margin: 1em 0px 0px; font-weight: bold; border-bottom-color: currentColor; border-bottom-width: 1px; border-bottom-style: solid;
+}
+.block_quiz_results h1 {
+	margin: 4px; font-size: 1.1em; font-weight: bold;
+}
+.block_rss_client .link {
+	padding-bottom: 5px; font-size: 0.82em; border-top-color: rgb(221, 221, 221); border-top-width: 1px; border-top-style: solid;
+}
+.block_rss_client .description {
+	color: rgb(85, 85, 85); padding-bottom: 8px; padding-left: 10px; font-size: 0.78em;
+}
+.block_rss_client .title {
+	font-size: 1em;
+}
+.block_rss_client .image {
+	
+}
+.blockconfigtable #rssfeeds {
+	margin-right: auto; margin-left: auto; background-color: blue;
+}
+.blockconfigtable #rssfeeds td.actions {
+	padding: 10px; text-align: center; vertical-align: middle;
+}
+.blockconfigtable #rssfeeds td.feed {
+	padding: 5px; vertical-align: middle;
+}
+.blockconfigtable #rssfeeds .title {
+	font-weight: bold; margin-bottom: 2px;
+}
+.blockconfigtable #rssfeeds .url {
+	font-size: 0.8em;
+}
+.blockconfigtable #rssfeeds .description {
+	font-size: 0.8em;
+}
+.blockconfigtable #rssfeeds tr.r0 {
+	background-color: rgb(255, 255, 255);
+}
+.blockconfigtable #rssfeeds tr.r1 {
+	background-color: rgb(240, 240, 240);
+}
+.block_search_forums .searchform {
+	text-align: center;
+}
+.block_search_forums .searchform img {
+	vertical-align: middle;
+}
+body ul.section .activity {
+	margin: 0px !important; padding: 0px !important;
+}
+body ul.treesection {
+	background: url("http://bluejay.cty.jhu.edu/course/format/topicstree/vline.png") repeat-y rgb(250, 250, 250); margin: 0px; padding: 0px; list-style-type: none;
+}
+ul.treesection ul {
+	background: url("http://bluejay.cty.jhu.edu/course/format/topicstree/vline.png") repeat-y rgb(250, 250, 250); margin: 0px; padding: 0px; list-style-type: none;
+}
+body ul.treesection ul {
+	margin-left: 2.2em;
+}
+body ul.treesection li.treeactivity {
+	background: url("http://bluejay.cty.jhu.edu/course/format/topicstree/node.png") no-repeat; line-height: 1.5em;
+}
+body ul.treesection li.last.treeactivity {
+	background: url("http://bluejay.cty.jhu.edu/course/format/topicstree/lastnode.png") no-repeat rgb(250, 250, 250);
+}
+.flexible th {
+	white-space: normal;
+}
+.gradestable th.user img {
+	width: 20px; height: 20px;
+}
+.gradestable th.user {
+	white-space: nowrap;
+}
+.gradestable th.range {
+	white-space: nowrap;
+}
+.grade-report-grader table#user-grades .catlevel1 {
+	background-color: rgb(255, 255, 255);
+}
+.grade-report-grader table#user-grades .catlevel2 {
+	background-color: rgb(238, 238, 238);
+}
+.grade-report-grader table#user-grades .catlevel3 {
+	background-color: rgb(221, 221, 221);
+}
+.grade-report-grader table#user-grades td.overridden {
+	background-color: rgb(239, 217, 179);
+}
+.grade-report-grader table#user-grades tr.avg td.cell {
+	background-color: rgb(239, 239, 255);
+}
+.grade-report-grader table#user-grades tr.odd td.cell {
+	background-color: rgb(239, 239, 239);
+}
+.grade-report-grader table#user-grades tr.even td.overridden {
+	background-color: rgb(243, 228, 192);
+}
+.grade-report-grader table#user-grades tr.odd td.overridden {
+	background-color: rgb(239, 217, 164);
+}
+.grade-report-grader table#user-grades tr.even td.excluded {
+	background-color: rgb(234, 191, 255);
+}
+.grade-report-grader table#user-grades tr.odd td.excluded {
+	background-color: rgb(229, 175, 255);
+}
+.grade-report-grader table#user-grades tr.odd th.header {
+	background-image: none; background-color: rgb(239, 239, 239);
+}
+.grade-report-grader table#user-grades td.vmarked {
+	background-color: rgb(255, 204, 51);
+}
+.grade-report-grader table#user-grades tr.odd td.vmarked {
+	background-color: rgb(255, 204, 51);
+}
+.grade-report-grader table#user-grades td.hmarked {
+	background-color: rgb(255, 255, 153);
+}
+.grade-report-grader table#user-grades tr.odd td.hmarked {
+	background-color: rgb(255, 255, 153);
+}
+.grade-report-grader table#user-grades td.vmarked.hmarked {
+	background-color: rgb(255, 204, 153);
+}
+.grade-report-grader table#user-grades tr.odd td.vmarked.hmarked {
+	background-color: rgb(255, 204, 153);
+}
+.grade-report-grader table#user-grades tr.groupavg td.cell {
+	background-color: rgb(239, 255, 239);
+}
+.grade-report-grader table#user-grades tr.groupavg td.cell {
+	color: rgb(0, 100, 0); font-weight: bold;
+}
+.grade-report-grader table#user-grades tr.avg td.cell {
+	color: rgb(0, 0, 139); font-weight: bold;
+}
+.grade-report-grader table#user-grades td.cat {
+	font-weight: bold;
+}
+.grade-report-grader table#user-grades td.course {
+	font-weight: bold;
+}
+.grade-report-grader table#user-grades {
+	font-size: 80%;
+}
+.grade-report-grader table#user-grades {
+	border-width: 1px; border-style: solid; margin-top: 20px;
+}
+.grade-report-grader #overDiv table {
+	margin: 0px;
+}
+.grade-report-grader #overDiv table td.feedback {
+	border: 0px currentColor;
+}
+.grade-report-grader #overDiv .feedback {
+	color: rgb(0, 0, 0); font-family: Verdana; font-size: 70%; font-weight: normal; background-color: rgb(170, 187, 255);
+}
+.grade-report-grader #overDiv .caption {
+	color: rgb(204, 204, 255); font-family: Arial; font-size: 70%; font-weight: bold; background-color: rgb(85, 102, 204);
+}
+.grade-report-grader div.submit {
+	text-align: center; margin-top: 20px;
+}
+.grade-report-grader table#user-grades td {
+	border-width: 1px; border-style: solid;
+}
+.grade-report-grader table#user-grades tr.heading {
+	border-width: 0px; border-style: solid;
+}
+.grade-report-grader table#user-grades .heading td {
+	border-width: 0px; border-style: solid;
+}
+.grade-report-grader table#user-grades th.category {
+	border-width: 1px 1px 0px; border-style: solid; vertical-align: top;
+}
+.grade-report-grader table#user-grades th.user {
+	border-width: 0px 0px 1px; border-style: solid;
+}
+.grade-report-grader table#user-grades th.useridnumber {
+	border-width: 0px 0px 1px 1px; border-style: solid;
+}
+.grade-report-grader table#user-grades th.categoryitem {
+	border-width: 0px 1px; border-style: solid; vertical-align: top;
+}
+.grade-report-grader table#user-grades th.courseitem {
+	border-width: 0px 1px; border-style: solid; vertical-align: top;
+}
+.grade-report-grader table#user-grades td.topleft {
+	border-width: 0px 1px; border-style: solid; vertical-align: top;
+}
+.grade-report-grader table#participants th {
+	vertical-align: top;
+}
+.grade-report-grader table#user-grades td.fillerfirst {
+	border-width: 0px 0px 0px 1px; border-style: solid;
+}
+.grade-report-grader table#user-grades td.fillerlast {
+	border-width: 0px 1px 0px 0px; border-style: solid;
+}
+.grade-report-grader table#user-grades th.item {
+	border-width: 1px; border-style: solid; vertical-align: top;
+}
+.grade-report-grader div.gradertoggle {
+	margin-left: 20px; display: inline;
+}
+.grade-report-grader table#user-grades {
+	margin-right: auto; margin-left: auto;
+}
+.grade-report-grader table#user-grades th.user {
+	text-align: left;
+}
+.grade-report-grader table#user-grades td.useridnumber {
+	text-align: left;
+}
+.grade-report-grader table#user-grades td {
+	text-align: right;
+}
+.grade-report-grader table#user-grades th.range {
+	border-width: 1px; border-style: solid;
+}
+.grade-report-grader table#user-grades .userpic {
+	margin-right: 10px; display: inline;
+}
+.grade-report-grader table#user-grades .quickfeedback {
+	border: 1px dashed rgb(0, 0, 0);
+}
+.grade-report-grader #siteconfiglink {
+	text-align: right;
+}
+.grade-report-grader table#user-grades .hidden {
+	color: rgb(170, 170, 170);
+}
+.grade-report-grader table#user-grades .hidden a {
+	color: rgb(170, 170, 170);
+}
+.grade-report-grader table#user-grades .datesubmitted {
+	font-size: 0.7em;
+}
+.grade-report-grader table#user-grades td.cell {
+	padding-right: 5px; padding-left: 5px;
+}
+.grade-report-user table#user-grade .datesubmitted {
+	font-size: 0.7em;
+}
+.grade-report-user table#user-grade .courseitem {
+	font-weight: bold;
+}
+.grade-report-user table#user-grade .categoryitem {
+	font-weight: bold;
+}
+.grade-report-user table#user-grade td.cell {
+	padding-right: 5px; padding-left: 5px;
+}
+#graded_users_selector {
+	text-align: right; float: right;
+}
+.grade-report-user table#user-grade .hidden {
+	color: rgb(170, 170, 170);
+}
+.grade-report-user table#user-grade .hidden a {
+	color: rgb(170, 170, 170);
+}

@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title>Other specific ways to declare styles</title>
+	<style type="text/css">
+		h1, h2, p {color: #0000ff;}
+		p a {color: #ff0000;}
+		div p {color: #009900;}
+		h3 + p {text-align: center;}
+		.arialbolditalic {font-family: Arial; font-weight: bold; font-style: italic}
+	</style>
+</head>
+
+<body>
+<h1>The h1 element is blue.</h1>
+<h2>The h2 element is blue too.</h2>
+<p>The paragraph element is blue again.</p>
+
+<p>This <a href="http://www.jhu.edu">link</a> shows the effect of rule with the compound selectors p and a.</p>
+
+A <a href="http://www.weather.com">link</a> that isn't within the paragraph tags does not have that effect.
+
+<div><p>This is green because compound selectors style rules are more specific than the simple style rules.</p></div>
+
+<h3>Some h3 heading.</h3>
+<p>The paragraph text after an h3 element is aligned center.</p>
+<p>But this paragraph is not affected by the adjacent selectors style rule.</p>
+
+<h1 class="arialbolditalic">The h1 tag with the arialbolditalic style.</h1>
+<h3 class="arialbolditalic">The h3 tag with the arialbolditalic style.</h3>
+</body>
+</html>
+

@@ -1,2 +1,2 @@
 # anurag-html
-Code for CTY HTML Web Programming Project
+Code for CTY HTML Web Programming
